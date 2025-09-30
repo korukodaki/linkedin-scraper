@@ -1,0 +1,2082 @@
+[
+    {
+        "Country": "APJ",
+        "Country_ID": "urn:li:geo:91000004"
+    },
+    {
+        "Country": "APAC",
+        "Country_ID": "urn:li:geo:91000003"
+    },
+    {
+        "Country": "South Asia",
+        "Country_ID": "urn:li:geo:91000013"
+    },
+    {
+        "Country": "Latin America",
+        "Country_ID": "urn:li:geo:91000011"
+    },
+    {
+        "Country": "European Economic Area",
+        "Country_ID": "urn:li:geo:91000002"
+    },
+    {
+        "Country": "EMEA",
+        "Country_ID": "urn:li:geo:91000007"
+    },
+    {
+        "Country": "Schengen Area",
+        "Country_ID": "urn:li:geo:91000024"
+    },
+    {
+        "Country": "Australia",
+        "Country_ID": "urn:li:geo:101452733"
+    },
+    {
+        "Country": "United States",
+        "Country_ID": "urn:li:geo:103644278"
+    },
+    {
+        "Country": "NAMER",
+        "Country_ID": "urn:li:geo:91000022"
+    },
+    {
+        "Country": "Argentina",
+        "Country_ID": "urn:li:geo:100446943"
+    },
+    {
+        "Country": "Australia and New Zealand",
+        "Country_ID": "urn:li:geo:91000015"
+    },
+    {
+        "Country": "Southeast Asia",
+        "Country_ID": "urn:li:geo:91000014"
+    },
+    {
+        "Country": "East Asia",
+        "Country_ID": "urn:li:geo:91000012"
+    },
+    {
+        "Country": "European Union",
+        "Country_ID": "urn:li:geo:91000000"
+    },
+    {
+        "Country": "Sub-Saharan Africa",
+        "Country_ID": "urn:li:geo:91000020"
+    },
+    {
+        "Country": "Algeria",
+        "Country_ID": "urn:li:geo:106395874"
+    },
+    {
+        "Country": "MENA",
+        "Country_ID": "urn:li:geo:91000008"
+    },
+    {
+        "Country": "Atlanta Metropolitan Area",
+        "Country_ID": "urn:li:geo:90000052"
+    },
+    {
+        "Country": "United Kingdom",
+        "Country_ID": "urn:li:geo:101165590"
+    },
+    {
+        "Country": "Brazil",
+        "Country_ID": "urn:li:geo:106057199"
+    },
+    {
+        "Country": "EMEA",
+        "Country_ID": "urn:li:geo:91000007"
+    },
+    {
+        "Country": "United States",
+        "Country_ID": "urn:li:geo:103644278"
+    },
+    {
+        "Country": "Benelux",
+        "Country_ID": "urn:li:geo:91000005"
+    },
+    {
+        "Country": "Bangladesh",
+        "Country_ID": "urn:li:geo:106215326"
+    },
+    {
+        "Country": "European Economic Area",
+        "Country_ID": "urn:li:geo:91000002"
+    },
+    {
+        "Country": "European Union",
+        "Country_ID": "urn:li:geo:91000000"
+    },
+    {
+        "Country": "Schengen Area",
+        "Country_ID": "urn:li:geo:91000024"
+    },
+    {
+        "Country": "Belgium",
+        "Country_ID": "urn:li:geo:100565514"
+    },
+    {
+        "Country": "MENA",
+        "Country_ID": "urn:li:geo:91000008"
+    },
+    {
+        "Country": "Bengaluru, Karnataka, India",
+        "Country_ID": "urn:li:geo:105214831"
+    },
+    {
+        "Country": "Buenos Aires Province, Argentina",
+        "Country_ID": "urn:li:geo:101279968"
+    },
+    {
+        "Country": "Middle East",
+        "Country_ID": "urn:li:geo:91000001"
+    },
+    {
+        "Country": "United Kingdom",
+        "Country_ID": "urn:li:geo:101165590"
+    },
+    {
+        "Country": "Bogotá D.C. Metropolitan Area",
+        "Country_ID": "urn:li:geo:90010133"
+    },
+    {
+        "Country": "Bogotá, Capital District, Colombia",
+        "Country_ID": "urn:li:geo:110366360"
+    },
+    {
+        "Country": "Bihar, India",
+        "Country_ID": "urn:li:geo:105234752"
+    },
+    {
+        "Country": "Bogota, D.C., Capital District, Colombia",
+        "Country_ID": "urn:li:geo:102361989"
+    },
+    {
+        "Country": "Beijing, China",
+        "Country_ID": "urn:li:geo:103873152"
+    },
+    {
+        "Country": "São Paulo, Brazil",
+        "Country_ID": "urn:li:geo:105871508"
+    },
+    {
+        "Country": "China",
+        "Country_ID": "urn:li:geo:102890883"
+    },
+    {
+        "Country": "Canada",
+        "Country_ID": "urn:li:geo:101174742"
+    },
+    {
+        "Country": "Colombia",
+        "Country_ID": "urn:li:geo:100876405"
+    },
+    {
+        "Country": "California, United States",
+        "Country_ID": "urn:li:geo:102095887"
+    },
+    {
+        "Country": "Chile",
+        "Country_ID": "urn:li:geo:104621616"
+    },
+    {
+        "Country": "Cairo, Egypt",
+        "Country_ID": "urn:li:geo:102007122"
+    },
+    {
+        "Country": "Central Africa",
+        "Country_ID": "urn:li:geo:91000021"
+    },
+    {
+        "Country": "Czechia",
+        "Country_ID": "urn:li:geo:104508036"
+    },
+    {
+        "Country": "Community of Madrid, Spain",
+        "Country_ID": "urn:li:geo:103335767"
+    },
+    {
+        "Country": "Capital District, Colombia",
+        "Country_ID": "urn:li:geo:106313561"
+    },
+    {
+        "Country": "Central Jakarta, Jakarta, Indonesia",
+        "Country_ID": "urn:li:geo:101705944"
+    },
+    {
+        "Country": "Chennai, Tamil Nadu, India",
+        "Country_ID": "urn:li:geo:106888327"
+    },
+    {
+        "Country": "New York City Metropolitan Area",
+        "Country_ID": "urn:li:geo:90000070"
+    },
+    {
+        "Country": "Cairo, Cairo, Egypt",
+        "Country_ID": "urn:li:geo:101131993"
+    },
+    {
+        "Country": "Cook County, Illinois, United States",
+        "Country_ID": "urn:li:geo:102410334"
+    },
+    {
+        "Country": "Colorado, United States",
+        "Country_ID": "urn:li:geo:105763813"
+    },
+    {
+        "Country": "City of Johannesburg, Gauteng, South Africa",
+        "Country_ID": "urn:li:geo:101069296"
+    },
+    {
+        "Country": "Catalonia, Spain",
+        "Country_ID": "urn:li:geo:100377885"
+    },
+    {
+        "Country": "Costa Rica",
+        "Country_ID": "urn:li:geo:101739942"
+    },
+    {
+        "Country": "Calabarzon, Philippines",
+        "Country_ID": "urn:li:geo:100392431"
+    },
+    {
+        "Country": "DACH",
+        "Country_ID": "urn:li:geo:91000006"
+    },
+    {
+        "Country": "EMEA",
+        "Country_ID": "urn:li:geo:91000007"
+    },
+    {
+        "Country": "APJ",
+        "Country_ID": "urn:li:geo:91000004"
+    },
+    {
+        "Country": "United States",
+        "Country_ID": "urn:li:geo:103644278"
+    },
+    {
+        "Country": "NAMER",
+        "Country_ID": "urn:li:geo:91000022"
+    },
+    {
+        "Country": "South Asia",
+        "Country_ID": "urn:li:geo:91000013"
+    },
+    {
+        "Country": "European Economic Area",
+        "Country_ID": "urn:li:geo:91000002"
+    },
+    {
+        "Country": "European Union",
+        "Country_ID": "urn:li:geo:91000000"
+    },
+    {
+        "Country": "Delhi, India",
+        "Country_ID": "urn:li:geo:106187582"
+    },
+    {
+        "Country": "Dallas-Fort Worth Metroplex",
+        "Country_ID": "urn:li:geo:90000031"
+    },
+    {
+        "Country": "MENA",
+        "Country_ID": "urn:li:geo:91000008"
+    },
+    {
+        "Country": "Southeast Asia",
+        "Country_ID": "urn:li:geo:91000014"
+    },
+    {
+        "Country": "East Asia",
+        "Country_ID": "urn:li:geo:91000012"
+    },
+    {
+        "Country": "United Kingdom",
+        "Country_ID": "urn:li:geo:101165590"
+    },
+    {
+        "Country": "Denmark",
+        "Country_ID": "urn:li:geo:104514075"
+    },
+    {
+        "Country": "Dhaka, Bangladesh",
+        "Country_ID": "urn:li:geo:103363366"
+    },
+    {
+        "Country": "Detroit Metropolitan Area",
+        "Country_ID": "urn:li:geo:90000035"
+    },
+    {
+        "Country": "Dubai, United Arab Emirates",
+        "Country_ID": "urn:li:geo:106204383"
+    },
+    {
+        "Country": "Denver Metropolitan Area",
+        "Country_ID": "urn:li:geo:90000034"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Country_ID": "urn:li:geo:105057336"
+    },
+    {
+        "Country": "EMEA",
+        "Country_ID": "urn:li:geo:91000007"
+    },
+    {
+        "Country": "European Economic Area",
+        "Country_ID": "urn:li:geo:91000002"
+    },
+    {
+        "Country": "European Union",
+        "Country_ID": "urn:li:geo:91000000"
+    },
+    {
+        "Country": "East Asia",
+        "Country_ID": "urn:li:geo:91000012"
+    },
+    {
+        "Country": "APJ",
+        "Country_ID": "urn:li:geo:91000004"
+    },
+    {
+        "Country": "Eurasia",
+        "Country_ID": "urn:li:geo:91000025"
+    },
+    {
+        "Country": "England, United Kingdom",
+        "Country_ID": "urn:li:geo:102299470"
+    },
+    {
+        "Country": "United States",
+        "Country_ID": "urn:li:geo:103644278"
+    },
+    {
+        "Country": "Egypt",
+        "Country_ID": "urn:li:geo:106155005"
+    },
+    {
+        "Country": "Eastern Africa",
+        "Country_ID": "urn:li:geo:91000018"
+    },
+    {
+        "Country": "Middle East",
+        "Country_ID": "urn:li:geo:91000001"
+    },
+    {
+        "Country": "Schengen Area",
+        "Country_ID": "urn:li:geo:91000024"
+    },
+    {
+        "Country": "Ecuador",
+        "Country_ID": "urn:li:geo:106373116"
+    },
+    {
+        "Country": "MENA",
+        "Country_ID": "urn:li:geo:91000008"
+    },
+    {
+        "Country": "Southeast Asia",
+        "Country_ID": "urn:li:geo:91000014"
+    },
+    {
+        "Country": "Indonesia",
+        "Country_ID": "urn:li:geo:102478259"
+    },
+    {
+        "Country": "East Java, Indonesia",
+        "Country_ID": "urn:li:geo:105539135"
+    },
+    {
+        "Country": "Spain",
+        "Country_ID": "urn:li:geo:105646813"
+    },
+    {
+        "Country": "DACH",
+        "Country_ID": "urn:li:geo:91000006"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Country_ID": "urn:li:geo:104305776"
+    },
+    {
+        "Country": "France",
+        "Country_ID": "urn:li:geo:105015875"
+    },
+    {
+        "Country": "Florida, United States",
+        "Country_ID": "urn:li:geo:101318387"
+    },
+    {
+        "Country": "China",
+        "Country_ID": "urn:li:geo:102890883"
+    },
+    {
+        "Country": "Sub-Saharan Africa",
+        "Country_ID": "urn:li:geo:91000020"
+    },
+    {
+        "Country": "Finland",
+        "Country_ID": "urn:li:geo:100456013"
+    },
+    {
+        "Country": "Philippines",
+        "Country_ID": "urn:li:geo:103121230"
+    },
+    {
+        "Country": "Flemish Region, Belgium",
+        "Country_ID": "urn:li:geo:100902529"
+    },
+    {
+        "Country": "Frankfurt Rhine-Main Metropolitan Area",
+        "Country_ID": "urn:li:geo:90009714"
+    },
+    {
+        "Country": "Federal Territory of Kuala Lumpur, Malaysia",
+        "Country_ID": "urn:li:geo:105277928"
+    },
+    {
+        "Country": "Fulton County, Georgia, United States",
+        "Country_ID": "urn:li:geo:106152866"
+    },
+    {
+        "Country": "San Francisco Bay Area",
+        "Country_ID": "urn:li:geo:90000084"
+    },
+    {
+        "Country": "Île-de-France, France",
+        "Country_ID": "urn:li:geo:104246759"
+    },
+    {
+        "Country": "Fujian, China",
+        "Country_ID": "urn:li:geo:104551092"
+    },
+    {
+        "Country": "Federal District, Brazil",
+        "Country_ID": "urn:li:geo:100108430"
+    },
+    {
+        "Country": "Dallas-Fort Worth Metroplex",
+        "Country_ID": "urn:li:geo:90000031"
+    },
+    {
+        "Country": "Federal District, Venezuela",
+        "Country_ID": "urn:li:geo:104481201"
+    },
+    {
+        "Country": "Miami-Fort Lauderdale Area",
+        "Country_ID": "urn:li:geo:90000056"
+    },
+    {
+        "Country": "Fortaleza, Ceará, Brazil",
+        "Country_ID": "urn:li:geo:103836099"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Country_ID": "urn:li:geo:104305776"
+    },
+    {
+        "Country": "Franklin County, Ohio, United States",
+        "Country_ID": "urn:li:geo:105721136"
+    },
+    {
+        "Country": "Germany",
+        "Country_ID": "urn:li:geo:101282230"
+    },
+    {
+        "Country": "EMEA",
+        "Country_ID": "urn:li:geo:91000007"
+    },
+    {
+        "Country": "APAC",
+        "Country_ID": "urn:li:geo:91000003"
+    },
+    {
+        "Country": "APJ",
+        "Country_ID": "urn:li:geo:91000004"
+    },
+    {
+        "Country": "United States",
+        "Country_ID": "urn:li:geo:103644278"
+    },
+    {
+        "Country": "NAMER",
+        "Country_ID": "urn:li:geo:91000022"
+    },
+    {
+        "Country": "India",
+        "Country_ID": "urn:li:geo:102713980"
+    },
+    {
+        "Country": "Greater Delhi Area",
+        "Country_ID": "urn:li:geo:90009626"
+    },
+    {
+        "Country": "South Asia",
+        "Country_ID": "urn:li:geo:91000013"
+    },
+    {
+        "Country": "Latin America",
+        "Country_ID": "urn:li:geo:91000011"
+    },
+    {
+        "Country": "European Economic Area",
+        "Country_ID": "urn:li:geo:91000002"
+    },
+    {
+        "Country": "Greater São Paulo Area",
+        "Country_ID": "urn:li:geo:90009574"
+    },
+    {
+        "Country": "European Union",
+        "Country_ID": "urn:li:geo:91000000"
+    },
+    {
+        "Country": "Schengen Area",
+        "Country_ID": "urn:li:geo:91000024"
+    },
+    {
+        "Country": "Greater Bengaluru Area",
+        "Country_ID": "urn:li:geo:90009633"
+    },
+    {
+        "Country": "Greater Paris Metropolitan Region",
+        "Country_ID": "urn:li:geo:90009659"
+    },
+    {
+        "Country": "Greater Hyderabad Area",
+        "Country_ID": "urn:li:geo:90009650"
+    },
+    {
+        "Country": "Greater London, England, United Kingdom",
+        "Country_ID": "urn:li:geo:102257491"
+    },
+    {
+        "Country": "Brazil",
+        "Country_ID": "urn:li:geo:106057199"
+    },
+    {
+        "Country": "Greater Chicago Area",
+        "Country_ID": "urn:li:geo:90000014"
+    },
+    {
+        "Country": "India",
+        "Country_ID": "urn:li:geo:102713980"
+    },
+    {
+        "Country": "European Economic Area",
+        "Country_ID": "urn:li:geo:91000002"
+    },
+    {
+        "Country": "Hyderabad, Telangana, India",
+        "Country_ID": "urn:li:geo:105556991"
+    },
+    {
+        "Country": "Hong Kong SAR",
+        "Country_ID": "urn:li:geo:103291313"
+    },
+    {
+        "Country": "Haryana, India",
+        "Country_ID": "urn:li:geo:102106636"
+    },
+    {
+        "Country": "Hanoi Capital Region",
+        "Country_ID": "urn:li:geo:90010186"
+    },
+    {
+        "Country": "Harris County, Texas, United States",
+        "Country_ID": "urn:li:geo:104789851"
+    },
+    {
+        "Country": "Hungary",
+        "Country_ID": "urn:li:geo:100288700"
+    },
+    {
+        "Country": "Spain",
+        "Country_ID": "urn:li:geo:105646813"
+    },
+    {
+        "Country": "Ho Chi Minh City Metropolitan Area",
+        "Country_ID": "urn:li:geo:90010187"
+    },
+    {
+        "Country": "Houston, Texas, United States",
+        "Country_ID": "urn:li:geo:103743442"
+    },
+    {
+        "Country": "Hesse, Germany",
+        "Country_ID": "urn:li:geo:103571888"
+    },
+    {
+        "Country": "Hauts-de-France, France",
+        "Country_ID": "urn:li:geo:105007536"
+    },
+    {
+        "Country": "Henan, China",
+        "Country_ID": "urn:li:geo:100958623"
+    },
+    {
+        "Country": "Greater Hyderabad Area",
+        "Country_ID": "urn:li:geo:90009650"
+    },
+    {
+        "Country": "Benelux",
+        "Country_ID": "urn:li:geo:91000005"
+    },
+    {
+        "Country": "Honduras",
+        "Country_ID": "urn:li:geo:101937718"
+    },
+    {
+        "Country": "Hangzhou-Shaoxing Metropolitan Area",
+        "Country_ID": "urn:li:geo:90009563"
+    },
+    {
+        "Country": "Netherlands",
+        "Country_ID": "urn:li:geo:102890719"
+    },
+    {
+        "Country": "Ho Chi Minh City, Vietnam",
+        "Country_ID": "urn:li:geo:103697962"
+    },
+    {
+        "Country": "India",
+        "Country_ID": "urn:li:geo:102713980"
+    },
+    {
+        "Country": "Indonesia",
+        "Country_ID": "urn:li:geo:102478259"
+    },
+    {
+        "Country": "Italy",
+        "Country_ID": "urn:li:geo:103350119"
+    },
+    {
+        "Country": "EMEA",
+        "Country_ID": "urn:li:geo:91000007"
+    },
+    {
+        "Country": "APJ",
+        "Country_ID": "urn:li:geo:91000004"
+    },
+    {
+        "Country": "Iran",
+        "Country_ID": "urn:li:geo:101934083"
+    },
+    {
+        "Country": "MENA",
+        "Country_ID": "urn:li:geo:91000008"
+    },
+    {
+        "Country": "Illinois, United States",
+        "Country_ID": "urn:li:geo:101949407"
+    },
+    {
+        "Country": "United Kingdom",
+        "Country_ID": "urn:li:geo:101165590"
+    },
+    {
+        "Country": "Ireland",
+        "Country_ID": "urn:li:geo:104738515"
+    },
+    {
+        "Country": "Istanbul, Türkiye",
+        "Country_ID": "urn:li:geo:102424322"
+    },
+    {
+        "Country": "Israel",
+        "Country_ID": "urn:li:geo:101620260"
+    },
+    {
+        "Country": "Iraq",
+        "Country_ID": "urn:li:geo:106725625"
+    },
+    {
+        "Country": "Maharashtra, India",
+        "Country_ID": "urn:li:geo:106300413"
+    },
+    {
+        "Country": "Istanbul, Istanbul, Türkiye",
+        "Country_ID": "urn:li:geo:100170895"
+    },
+    {
+        "Country": "Indiana, United States",
+        "Country_ID": "urn:li:geo:103336534"
+    },
+    {
+        "Country": "Spain",
+        "Country_ID": "urn:li:geo:105646813"
+    },
+    {
+        "Country": "DACH",
+        "Country_ID": "urn:li:geo:91000006"
+    },
+    {
+        "Country": "England, United Kingdom",
+        "Country_ID": "urn:li:geo:102299470"
+    },
+    {
+        "Country": "Tamil Nadu, India",
+        "Country_ID": "urn:li:geo:101436253"
+    },
+    {
+        "Country": "APJ",
+        "Country_ID": "urn:li:geo:91000004"
+    },
+    {
+        "Country": "South Asia",
+        "Country_ID": "urn:li:geo:91000013"
+    },
+    {
+        "Country": "Jakarta Metropolitan Area",
+        "Country_ID": "urn:li:geo:90010101"
+    },
+    {
+        "Country": "Japan",
+        "Country_ID": "urn:li:geo:101355337"
+    },
+    {
+        "Country": "Southeast Asia",
+        "Country_ID": "urn:li:geo:91000014"
+    },
+    {
+        "Country": "Jakarta, Indonesia",
+        "Country_ID": "urn:li:geo:104370960"
+    },
+    {
+        "Country": "Johannesburg Metropolitan Area",
+        "Country_ID": "urn:li:geo:90010098"
+    },
+    {
+        "Country": "Jordan",
+        "Country_ID": "urn:li:geo:103710677"
+    },
+    {
+        "Country": "Jiangsu, China",
+        "Country_ID": "urn:li:geo:105927538"
+    },
+    {
+        "Country": "Germany",
+        "Country_ID": "urn:li:geo:101282230"
+    },
+    {
+        "Country": "DACH",
+        "Country_ID": "urn:li:geo:91000006"
+    },
+    {
+        "Country": "Jaipur, Rajasthan, India",
+        "Country_ID": "urn:li:geo:101716408"
+    },
+    {
+        "Country": "South Africa",
+        "Country_ID": "urn:li:geo:104035573"
+    },
+    {
+        "Country": "Benelux",
+        "Country_ID": "urn:li:geo:91000005"
+    },
+    {
+        "Country": "Jalisco, Mexico",
+        "Country_ID": "urn:li:geo:106387491"
+    },
+    {
+        "Country": "New York City Metropolitan Area",
+        "Country_ID": "urn:li:geo:90000070"
+    },
+    {
+        "Country": "Southern Africa",
+        "Country_ID": "urn:li:geo:91000017"
+    },
+    {
+        "Country": "Jamaica",
+        "Country_ID": "urn:li:geo:105126983"
+    },
+    {
+        "Country": "Jiddah, Makkah, Saudi Arabia",
+        "Country_ID": "urn:li:geo:102141819"
+    },
+    {
+        "Country": "Jharkhand, India",
+        "Country_ID": "urn:li:geo:103037983"
+    },
+    {
+        "Country": "NAMER",
+        "Country_ID": "urn:li:geo:91000022"
+    },
+    {
+        "Country": "European Economic Area",
+        "Country_ID": "urn:li:geo:91000002"
+    },
+    {
+        "Country": "European Union",
+        "Country_ID": "urn:li:geo:91000000"
+    },
+    {
+        "Country": "United Kingdom",
+        "Country_ID": "urn:li:geo:101165590"
+    },
+    {
+        "Country": "Schengen Area",
+        "Country_ID": "urn:li:geo:91000024"
+    },
+    {
+        "Country": "Karnataka, India",
+        "Country_ID": "urn:li:geo:100811329"
+    },
+    {
+        "Country": "Kenya",
+        "Country_ID": "urn:li:geo:100710459"
+    },
+    {
+        "Country": "Kelesgamuwa, Western Province, Sri Lanka",
+        "Country_ID": "urn:li:geo:117065434"
+    },
+    {
+        "Country": "MENA",
+        "Country_ID": "urn:li:geo:91000008"
+    },
+    {
+        "Country": "China",
+        "Country_ID": "urn:li:geo:102890883"
+    },
+    {
+        "Country": "England, United Kingdom",
+        "Country_ID": "urn:li:geo:102299470"
+    },
+    {
+        "Country": "Kerala, India",
+        "Country_ID": "urn:li:geo:105167843"
+    },
+    {
+        "Country": "Canada",
+        "Country_ID": "urn:li:geo:101174742"
+    },
+    {
+        "Country": "Kakori, Uttar Pradesh, India",
+        "Country_ID": "urn:li:geo:106431974"
+    },
+    {
+        "Country": "Kazakhstan",
+        "Country_ID": "urn:li:geo:106049128"
+    },
+    {
+        "Country": "Northern Africa",
+        "Country_ID": "urn:li:geo:91000016"
+    },
+    {
+        "Country": "London Area, United Kingdom",
+        "Country_ID": "urn:li:geo:90009496"
+    },
+    {
+        "Country": "King County, Washington, United States",
+        "Country_ID": "urn:li:geo:106928490"
+    },
+    {
+        "Country": "Kansas City Metropolitan Area",
+        "Country_ID": "urn:li:geo:90000376"
+    },
+    {
+        "Country": "Kuwait",
+        "Country_ID": "urn:li:geo:103239229"
+    },
+    {
+        "Country": "Latin America",
+        "Country_ID": "urn:li:geo:91000011"
+    },
+    {
+        "Country": "EMEA",
+        "Country_ID": "urn:li:geo:91000007"
+    },
+    {
+        "Country": "APAC",
+        "Country_ID": "urn:li:geo:91000003"
+    },
+    {
+        "Country": "APJ",
+        "Country_ID": "urn:li:geo:91000004"
+    },
+    {
+        "Country": "United States",
+        "Country_ID": "urn:li:geo:103644278"
+    },
+    {
+        "Country": "NAMER",
+        "Country_ID": "urn:li:geo:91000022"
+    },
+    {
+        "Country": "India",
+        "Country_ID": "urn:li:geo:102713980"
+    },
+    {
+        "Country": "Los Angeles Metropolitan Area",
+        "Country_ID": "urn:li:geo:90000049"
+    },
+    {
+        "Country": "South Asia",
+        "Country_ID": "urn:li:geo:91000013"
+    },
+    {
+        "Country": "European Economic Area",
+        "Country_ID": "urn:li:geo:91000002"
+    },
+    {
+        "Country": "European Union",
+        "Country_ID": "urn:li:geo:91000000"
+    },
+    {
+        "Country": "Schengen Area",
+        "Country_ID": "urn:li:geo:91000024"
+    },
+    {
+        "Country": "London Area, United Kingdom",
+        "Country_ID": "urn:li:geo:90009496"
+    },
+    {
+        "Country": "Brazil",
+        "Country_ID": "urn:li:geo:106057199"
+    },
+    {
+        "Country": "MENA",
+        "Country_ID": "urn:li:geo:91000008"
+    },
+    {
+        "Country": "China",
+        "Country_ID": "urn:li:geo:102890883"
+    },
+    {
+        "Country": "Los Angeles County, California, United States",
+        "Country_ID": "urn:li:geo:103104382"
+    },
+    {
+        "Country": "Southeast Asia",
+        "Country_ID": "urn:li:geo:91000014"
+    },
+    {
+        "Country": "East Asia",
+        "Country_ID": "urn:li:geo:91000012"
+    },
+    {
+        "Country": "Middle East",
+        "Country_ID": "urn:li:geo:91000001"
+    },
+    {
+        "Country": "MENA",
+        "Country_ID": "urn:li:geo:91000008"
+    },
+    {
+        "Country": "Middle East",
+        "Country_ID": "urn:li:geo:91000001"
+    },
+    {
+        "Country": "Mexico",
+        "Country_ID": "urn:li:geo:103323778"
+    },
+    {
+        "Country": "EMEA",
+        "Country_ID": "urn:li:geo:91000007"
+    },
+    {
+        "Country": "Maharashtra, India",
+        "Country_ID": "urn:li:geo:106300413"
+    },
+    {
+        "Country": "South Asia",
+        "Country_ID": "urn:li:geo:91000013"
+    },
+    {
+        "Country": "Malaysia",
+        "Country_ID": "urn:li:geo:106808692"
+    },
+    {
+        "Country": "Mumbai Metropolitan Region",
+        "Country_ID": "urn:li:geo:90009639"
+    },
+    {
+        "Country": "Morocco",
+        "Country_ID": "urn:li:geo:102787409"
+    },
+    {
+        "Country": "Mumbai, Maharashtra, India",
+        "Country_ID": "urn:li:geo:106164952"
+    },
+    {
+        "Country": "Mexico City Metropolitan Area",
+        "Country_ID": "urn:li:geo:90010045"
+    },
+    {
+        "Country": "United Kingdom",
+        "Country_ID": "urn:li:geo:101165590"
+    },
+    {
+        "Country": "Minas Gerais, Brazil",
+        "Country_ID": "urn:li:geo:100358611"
+    },
+    {
+        "Country": "Miami-Fort Lauderdale Area",
+        "Country_ID": "urn:li:geo:90000056"
+    },
+    {
+        "Country": "Metro Manila",
+        "Country_ID": "urn:li:geo:90010076"
+    },
+    {
+        "Country": "Madhya Pradesh, India",
+        "Country_ID": "urn:li:geo:100230751"
+    },
+    {
+        "Country": "Madrid, Community of Madrid, Spain",
+        "Country_ID": "urn:li:geo:100994331"
+    },
+    {
+        "Country": "Michigan, United States",
+        "Country_ID": "urn:li:geo:103051080"
+    },
+    {
+        "Country": "Massachusetts, United States",
+        "Country_ID": "urn:li:geo:101098412"
+    },
+    {
+        "Country": "New York City Metropolitan Area",
+        "Country_ID": "urn:li:geo:90000070"
+    },
+    {
+        "Country": "NAMER",
+        "Country_ID": "urn:li:geo:91000022"
+    },
+    {
+        "Country": "Northern Africa",
+        "Country_ID": "urn:li:geo:91000016"
+    },
+    {
+        "Country": "EMEA",
+        "Country_ID": "urn:li:geo:91000007"
+    },
+    {
+        "Country": "Netherlands",
+        "Country_ID": "urn:li:geo:102890719"
+    },
+    {
+        "Country": "New York City Metropolitan Area",
+        "Country_ID": "urn:li:geo:90000070"
+    },
+    {
+        "Country": "Nigeria",
+        "Country_ID": "urn:li:geo:105365761"
+    },
+    {
+        "Country": "Nordics",
+        "Country_ID": "urn:li:geo:91000009"
+    },
+    {
+        "Country": "New York, United States",
+        "Country_ID": "urn:li:geo:105080838"
+    },
+    {
+        "Country": "New Delhi, Delhi, India",
+        "Country_ID": "urn:li:geo:115918471"
+    },
+    {
+        "Country": "MENA",
+        "Country_ID": "urn:li:geo:91000008"
+    },
+    {
+        "Country": "New York, New York, United States",
+        "Country_ID": "urn:li:geo:102571732"
+    },
+    {
+        "Country": "Middle East",
+        "Country_ID": "urn:li:geo:91000001"
+    },
+    {
+        "Country": "United Kingdom",
+        "Country_ID": "urn:li:geo:101165590"
+    },
+    {
+        "Country": "North Carolina, United States",
+        "Country_ID": "urn:li:geo:103255397"
+    },
+    {
+        "Country": "New Jersey, United States",
+        "Country_ID": "urn:li:geo:101651951"
+    },
+    {
+        "Country": "New Zealand",
+        "Country_ID": "urn:li:geo:105490917"
+    },
+    {
+        "Country": "Norway",
+        "Country_ID": "urn:li:geo:103819153"
+    },
+    {
+        "Country": "National Capital Region, Philippines",
+        "Country_ID": "urn:li:geo:103458678"
+    },
+    {
+        "Country": "New South Wales, Australia",
+        "Country_ID": "urn:li:geo:103313686"
+    },
+    {
+        "Country": "Australia and New Zealand",
+        "Country_ID": "urn:li:geo:91000015"
+    },
+    {
+        "Country": "EMEA",
+        "Country_ID": "urn:li:geo:91000007"
+    },
+    {
+        "Country": "APAC",
+        "Country_ID": "urn:li:geo:91000003"
+    },
+    {
+        "Country": "APJ",
+        "Country_ID": "urn:li:geo:91000004"
+    },
+    {
+        "Country": "Oceania",
+        "Country_ID": "urn:li:geo:91000010"
+    },
+    {
+        "Country": "European Economic Area",
+        "Country_ID": "urn:li:geo:91000002"
+    },
+    {
+        "Country": "Schengen Area",
+        "Country_ID": "urn:li:geo:91000024"
+    },
+    {
+        "Country": "Ontario, Canada",
+        "Country_ID": "urn:li:geo:105149290"
+    },
+    {
+        "Country": "MENA",
+        "Country_ID": "urn:li:geo:91000008"
+    },
+    {
+        "Country": "Southeast Asia",
+        "Country_ID": "urn:li:geo:91000014"
+    },
+    {
+        "Country": "East Asia",
+        "Country_ID": "urn:li:geo:91000012"
+    },
+    {
+        "Country": "Middle East",
+        "Country_ID": "urn:li:geo:91000001"
+    },
+    {
+        "Country": "United Kingdom",
+        "Country_ID": "urn:li:geo:101165590"
+    },
+    {
+        "Country": "Ohio, United States",
+        "Country_ID": "urn:li:geo:106981407"
+    },
+    {
+        "Country": "DACH",
+        "Country_ID": "urn:li:geo:91000006"
+    },
+    {
+        "Country": "Odisha, India",
+        "Country_ID": "urn:li:geo:100008630"
+    },
+    {
+        "Country": "Oregon, United States",
+        "Country_ID": "urn:li:geo:101685541"
+    },
+    {
+        "Country": "Occitanie, France",
+        "Country_ID": "urn:li:geo:103876217"
+    },
+    {
+        "Country": "Oman",
+        "Country_ID": "urn:li:geo:103619019"
+    },
+    {
+        "Country": "Orange County, California, United States",
+        "Country_ID": "urn:li:geo:105621717"
+    },
+    {
+        "Country": "Western Africa",
+        "Country_ID": "urn:li:geo:91000019"
+    },
+    {
+        "Country": "Philippines",
+        "Country_ID": "urn:li:geo:103121230"
+    },
+    {
+        "Country": "APAC",
+        "Country_ID": "urn:li:geo:91000003"
+    },
+    {
+        "Country": "APJ",
+        "Country_ID": "urn:li:geo:91000004"
+    },
+    {
+        "Country": "Pakistan",
+        "Country_ID": "urn:li:geo:101022442"
+    },
+    {
+        "Country": "NAMER",
+        "Country_ID": "urn:li:geo:91000022"
+    },
+    {
+        "Country": "Peru",
+        "Country_ID": "urn:li:geo:102927786"
+    },
+    {
+        "Country": "South Asia",
+        "Country_ID": "urn:li:geo:91000013"
+    },
+    {
+        "Country": "European Economic Area",
+        "Country_ID": "urn:li:geo:91000002"
+    },
+    {
+        "Country": "Poland",
+        "Country_ID": "urn:li:geo:105072130"
+    },
+    {
+        "Country": "Schengen Area",
+        "Country_ID": "urn:li:geo:91000024"
+    },
+    {
+        "Country": "Portugal",
+        "Country_ID": "urn:li:geo:100364837"
+    },
+    {
+        "Country": "MENA",
+        "Country_ID": "urn:li:geo:91000008"
+    },
+    {
+        "Country": "Southeast Asia",
+        "Country_ID": "urn:li:geo:91000014"
+    },
+    {
+        "Country": "Pune, Maharashtra, India",
+        "Country_ID": "urn:li:geo:114806696"
+    },
+    {
+        "Country": "Pune/Pimpri-Chinchwad Area",
+        "Country_ID": "urn:li:geo:90009642"
+    },
+    {
+        "Country": "Pennsylvania, United States",
+        "Country_ID": "urn:li:geo:102986501"
+    },
+    {
+        "Country": "Punjab, Pakistan",
+        "Country_ID": "urn:li:geo:102306254"
+    },
+    {
+        "Country": "Paris, Île-de-France, France",
+        "Country_ID": "urn:li:geo:106383538"
+    },
+    {
+        "Country": "France",
+        "Country_ID": "urn:li:geo:105015875"
+    },
+    {
+        "Country": "Paraná, Brazil",
+        "Country_ID": "urn:li:geo:105081143"
+    },
+    {
+        "Country": "Quebec, Canada",
+        "Country_ID": "urn:li:geo:102237789"
+    },
+    {
+        "Country": "Qatar",
+        "Country_ID": "urn:li:geo:104170880"
+    },
+    {
+        "Country": "Queensland, Australia",
+        "Country_ID": "urn:li:geo:103466979"
+    },
+    {
+        "Country": "Quito Metropolitan Area",
+        "Country_ID": "urn:li:geo:90010367"
+    },
+    {
+        "Country": "Quezon City, National Capital Region, Philippines",
+        "Country_ID": "urn:li:geo:106806189"
+    },
+    {
+        "Country": "Quito Canton, Pichincha, Ecuador",
+        "Country_ID": "urn:li:geo:105729548"
+    },
+    {
+        "Country": "Queretaro Metropolitan Area",
+        "Country_ID": "urn:li:geo:90010050"
+    },
+    {
+        "Country": "Quito, Pichincha, Ecuador",
+        "Country_ID": "urn:li:geo:104011438"
+    },
+    {
+        "Country": "Querétaro, Mexico",
+        "Country_ID": "urn:li:geo:106106375"
+    },
+    {
+        "Country": "Kenya",
+        "Country_ID": "urn:li:geo:100710459"
+    },
+    {
+        "Country": "Querétaro, Querétaro, Mexico",
+        "Country_ID": "urn:li:geo:103909344"
+    },
+    {
+        "Country": "Qingdao, Shandong, China",
+        "Country_ID": "urn:li:geo:104332104"
+    },
+    {
+        "Country": "Queens, New York, United States",
+        "Country_ID": "urn:li:geo:106282048"
+    },
+    {
+        "Country": "Queens County, New York, United States",
+        "Country_ID": "urn:li:geo:104239575"
+    },
+    {
+        "Country": "Quad Cities Metropolitan Area",
+        "Country_ID": "urn:li:geo:90000196"
+    },
+    {
+        "Country": "Quintana Roo, Mexico",
+        "Country_ID": "urn:li:geo:104644684"
+    },
+    {
+        "Country": "Quận 4, Ho Chi Minh City, Vietnam",
+        "Country_ID": "urn:li:geo:100142015"
+    },
+    {
+        "Country": "Kerala, India",
+        "Country_ID": "urn:li:geo:105167843"
+    },
+    {
+        "Country": "Montreal, Quebec, Canada",
+        "Country_ID": "urn:li:geo:101330853"
+    },
+    {
+        "Country": "Québec, Quebec, Canada",
+        "Country_ID": "urn:li:geo:103148075"
+    },
+    {
+        "Country": "European Economic Area",
+        "Country_ID": "urn:li:geo:91000002"
+    },
+    {
+        "Country": "Schengen Area",
+        "Country_ID": "urn:li:geo:91000024"
+    },
+    {
+        "Country": "Russia",
+        "Country_ID": "urn:li:geo:101728296"
+    },
+    {
+        "Country": "Romania",
+        "Country_ID": "urn:li:geo:106670623"
+    },
+    {
+        "Country": "Rio de Janeiro, Brazil",
+        "Country_ID": "urn:li:geo:103658898"
+    },
+    {
+        "Country": "United Kingdom",
+        "Country_ID": "urn:li:geo:101165590"
+    },
+    {
+        "Country": "Rajasthan, India",
+        "Country_ID": "urn:li:geo:105739802"
+    },
+    {
+        "Country": "Rio Grande do Sul, Brazil",
+        "Country_ID": "urn:li:geo:105031557"
+    },
+    {
+        "Country": "Rio de Janeiro, Rio de Janeiro, Brazil",
+        "Country_ID": "urn:li:geo:106701406"
+    },
+    {
+        "Country": "Riyadh, Saudi Arabia",
+        "Country_ID": "urn:li:geo:101336206"
+    },
+    {
+        "Country": "Riyadh Region",
+        "Country_ID": "urn:li:geo:90010388"
+    },
+    {
+        "Country": "DACH",
+        "Country_ID": "urn:li:geo:91000006"
+    },
+    {
+        "Country": "Mumbai Metropolitan Region",
+        "Country_ID": "urn:li:geo:90009639"
+    },
+    {
+        "Country": "Rome, Latium, Italy",
+        "Country_ID": "urn:li:geo:106398949"
+    },
+    {
+        "Country": "Greater Paris Metropolitan Region",
+        "Country_ID": "urn:li:geo:90009659"
+    },
+    {
+        "Country": "South Africa",
+        "Country_ID": "urn:li:geo:104035573"
+    },
+    {
+        "Country": "Raleigh-Durham-Chapel Hill Area",
+        "Country_ID": "urn:li:geo:90000664"
+    },
+    {
+        "Country": "Rotterdam and The Hague",
+        "Country_ID": "urn:li:geo:90010386"
+    },
+    {
+        "Country": "New York City Metropolitan Area",
+        "Country_ID": "urn:li:geo:90000070"
+    },
+    {
+        "Country": "Greater Delhi Area",
+        "Country_ID": "urn:li:geo:90009626"
+    },
+    {
+        "Country": "South Asia",
+        "Country_ID": "urn:li:geo:91000013"
+    },
+    {
+        "Country": "Schengen Area",
+        "Country_ID": "urn:li:geo:91000024"
+    },
+    {
+        "Country": "Southeast Asia",
+        "Country_ID": "urn:li:geo:91000014"
+    },
+    {
+        "Country": "United States",
+        "Country_ID": "urn:li:geo:103644278"
+    },
+    {
+        "Country": "Sub-Saharan Africa",
+        "Country_ID": "urn:li:geo:91000020"
+    },
+    {
+        "Country": "Spain",
+        "Country_ID": "urn:li:geo:105646813"
+    },
+    {
+        "Country": "EMEA",
+        "Country_ID": "urn:li:geo:91000007"
+    },
+    {
+        "Country": "APAC",
+        "Country_ID": "urn:li:geo:91000003"
+    },
+    {
+        "Country": "APJ",
+        "Country_ID": "urn:li:geo:91000004"
+    },
+    {
+        "Country": "South Africa",
+        "Country_ID": "urn:li:geo:104035573"
+    },
+    {
+        "Country": "NAMER",
+        "Country_ID": "urn:li:geo:91000022"
+    },
+    {
+        "Country": "São Paulo, Brazil",
+        "Country_ID": "urn:li:geo:105871508"
+    },
+    {
+        "Country": "Southern Africa",
+        "Country_ID": "urn:li:geo:91000017"
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Country_ID": "urn:li:geo:100459316"
+    },
+    {
+        "Country": "European Economic Area",
+        "Country_ID": "urn:li:geo:91000002"
+    },
+    {
+        "Country": "San Francisco Bay Area",
+        "Country_ID": "urn:li:geo:90000084"
+    },
+    {
+        "Country": "Sweden",
+        "Country_ID": "urn:li:geo:105117694"
+    },
+    {
+        "Country": "Switzerland",
+        "Country_ID": "urn:li:geo:106693272"
+    },
+    {
+        "Country": "Singapore",
+        "Country_ID": "urn:li:geo:102454443"
+    },
+    {
+        "Country": "South Korea",
+        "Country_ID": "urn:li:geo:105149562"
+    },
+    {
+        "Country": "EMEA",
+        "Country_ID": "urn:li:geo:91000007"
+    },
+    {
+        "Country": "Türkiye",
+        "Country_ID": "urn:li:geo:102105699"
+    },
+    {
+        "Country": "Texas, United States",
+        "Country_ID": "urn:li:geo:102748797"
+    },
+    {
+        "Country": "Tamil Nadu, India",
+        "Country_ID": "urn:li:geo:101436253"
+    },
+    {
+        "Country": "Thailand",
+        "Country_ID": "urn:li:geo:105146118"
+    },
+    {
+        "Country": "Telangana, India",
+        "Country_ID": "urn:li:geo:102767464"
+    },
+    {
+        "Country": "MENA",
+        "Country_ID": "urn:li:geo:91000008"
+    },
+    {
+        "Country": "Southeast Asia",
+        "Country_ID": "urn:li:geo:91000014"
+    },
+    {
+        "Country": "Taiwan",
+        "Country_ID": "urn:li:geo:104187078"
+    },
+    {
+        "Country": "East Asia",
+        "Country_ID": "urn:li:geo:91000012"
+    },
+    {
+        "Country": "Middle East",
+        "Country_ID": "urn:li:geo:91000001"
+    },
+    {
+        "Country": "The Randstad, Netherlands",
+        "Country_ID": "urn:li:geo:90009706"
+    },
+    {
+        "Country": "Tunisia",
+        "Country_ID": "urn:li:geo:102134353"
+    },
+    {
+        "Country": "Tennessee, United States",
+        "Country_ID": "urn:li:geo:104629187"
+    },
+    {
+        "Country": "Toronto, Ontario, Canada",
+        "Country_ID": "urn:li:geo:100025096"
+    },
+    {
+        "Country": "Germany",
+        "Country_ID": "urn:li:geo:101282230"
+    },
+    {
+        "Country": "DACH",
+        "Country_ID": "urn:li:geo:91000006"
+    },
+    {
+        "Country": "Tanzania",
+        "Country_ID": "urn:li:geo:104604145"
+    },
+    {
+        "Country": "Taipei–Keelung Metropolitan area",
+        "Country_ID": "urn:li:geo:90010287"
+    },
+    {
+        "Country": "Benelux",
+        "Country_ID": "urn:li:geo:91000005"
+    },
+    {
+        "Country": "United States",
+        "Country_ID": "urn:li:geo:103644278"
+    },
+    {
+        "Country": "United Kingdom",
+        "Country_ID": "urn:li:geo:101165590"
+    },
+    {
+        "Country": "European Union",
+        "Country_ID": "urn:li:geo:91000000"
+    },
+    {
+        "Country": "EMEA",
+        "Country_ID": "urn:li:geo:91000007"
+    },
+    {
+        "Country": "APAC",
+        "Country_ID": "urn:li:geo:91000003"
+    },
+    {
+        "Country": "APJ",
+        "Country_ID": "urn:li:geo:91000004"
+    },
+    {
+        "Country": "NAMER",
+        "Country_ID": "urn:li:geo:91000022"
+    },
+    {
+        "Country": "India",
+        "Country_ID": "urn:li:geo:102713980"
+    },
+    {
+        "Country": "South Asia",
+        "Country_ID": "urn:li:geo:91000013"
+    },
+    {
+        "Country": "Latin America",
+        "Country_ID": "urn:li:geo:91000011"
+    },
+    {
+        "Country": "European Economic Area",
+        "Country_ID": "urn:li:geo:91000002"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Country_ID": "urn:li:geo:104305776"
+    },
+    {
+        "Country": "Schengen Area",
+        "Country_ID": "urn:li:geo:91000024"
+    },
+    {
+        "Country": "Uttar Pradesh, India",
+        "Country_ID": "urn:li:geo:105216624"
+    },
+    {
+        "Country": "Ukraine",
+        "Country_ID": "urn:li:geo:102264497"
+    },
+    {
+        "Country": "Brazil",
+        "Country_ID": "urn:li:geo:106057199"
+    },
+    {
+        "Country": "MENA",
+        "Country_ID": "urn:li:geo:91000008"
+    },
+    {
+        "Country": "China",
+        "Country_ID": "urn:li:geo:102890883"
+    },
+    {
+        "Country": "Southeast Asia",
+        "Country_ID": "urn:li:geo:91000014"
+    },
+    {
+        "Country": "East Asia",
+        "Country_ID": "urn:li:geo:91000012"
+    },
+    {
+        "Country": "EMEA",
+        "Country_ID": "urn:li:geo:91000007"
+    },
+    {
+        "Country": "APJ",
+        "Country_ID": "urn:li:geo:91000004"
+    },
+    {
+        "Country": "United States",
+        "Country_ID": "urn:li:geo:103644278"
+    },
+    {
+        "Country": "Vietnam",
+        "Country_ID": "urn:li:geo:104195383"
+    },
+    {
+        "Country": "Venezuela",
+        "Country_ID": "urn:li:geo:101490751"
+    },
+    {
+        "Country": "MENA",
+        "Country_ID": "urn:li:geo:91000008"
+    },
+    {
+        "Country": "East Asia",
+        "Country_ID": "urn:li:geo:91000012"
+    },
+    {
+        "Country": "Middle East",
+        "Country_ID": "urn:li:geo:91000001"
+    },
+    {
+        "Country": "United Kingdom",
+        "Country_ID": "urn:li:geo:101165590"
+    },
+    {
+        "Country": "Virginia, United States",
+        "Country_ID": "urn:li:geo:101630962"
+    },
+    {
+        "Country": "Victoria, Australia",
+        "Country_ID": "urn:li:geo:102241850"
+    },
+    {
+        "Country": "DACH",
+        "Country_ID": "urn:li:geo:91000006"
+    },
+    {
+        "Country": "Western Africa",
+        "Country_ID": "urn:li:geo:91000019"
+    },
+    {
+        "Country": "Valencian Community, Spain",
+        "Country_ID": "urn:li:geo:100076887"
+    },
+    {
+        "Country": "Veneto, Italy",
+        "Country_ID": "urn:li:geo:106933435"
+    },
+    {
+        "Country": "Eastern Africa",
+        "Country_ID": "urn:li:geo:91000018"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Country_ID": "urn:li:geo:104305776"
+    },
+    {
+        "Country": "London Area, United Kingdom",
+        "Country_ID": "urn:li:geo:90009496"
+    },
+    {
+        "Country": "Vienna, Austria",
+        "Country_ID": "urn:li:geo:107144641"
+    },
+    {
+        "Country": "Valle del Cauca, Colombia",
+        "Country_ID": "urn:li:geo:105022260"
+    },
+    {
+        "Country": "EMEA",
+        "Country_ID": "urn:li:geo:91000007"
+    },
+    {
+        "Country": "Western Africa",
+        "Country_ID": "urn:li:geo:91000019"
+    },
+    {
+        "Country": "European Economic Area",
+        "Country_ID": "urn:li:geo:91000002"
+    },
+    {
+        "Country": "Washington DC-Baltimore Area",
+        "Country_ID": "urn:li:geo:90000097"
+    },
+    {
+        "Country": "MENA",
+        "Country_ID": "urn:li:geo:91000008"
+    },
+    {
+        "Country": "Southeast Asia",
+        "Country_ID": "urn:li:geo:91000014"
+    },
+    {
+        "Country": "East Asia",
+        "Country_ID": "urn:li:geo:91000012"
+    },
+    {
+        "Country": "Middle East",
+        "Country_ID": "urn:li:geo:91000001"
+    },
+    {
+        "Country": "United Kingdom",
+        "Country_ID": "urn:li:geo:101165590"
+    },
+    {
+        "Country": "West Bengal, India",
+        "Country_ID": "urn:li:geo:106652067"
+    },
+    {
+        "Country": "West Java, Indonesia",
+        "Country_ID": "urn:li:geo:102877321"
+    },
+    {
+        "Country": "Washington, United States",
+        "Country_ID": "urn:li:geo:103977389"
+    },
+    {
+        "Country": "Italy",
+        "Country_ID": "urn:li:geo:103350119"
+    },
+    {
+        "Country": "Wisconsin, United States",
+        "Country_ID": "urn:li:geo:104454774"
+    },
+    {
+        "Country": "Warsaw Metropolitan Area",
+        "Country_ID": "urn:li:geo:90009828"
+    },
+    {
+        "Country": "Western Cape, South Africa",
+        "Country_ID": "urn:li:geo:106499088"
+    },
+    {
+        "Country": "WP. Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "Country_ID": "urn:li:geo:105563270"
+    },
+    {
+        "Country": "Warsaw, Mazowieckie, Poland",
+        "Country_ID": "urn:li:geo:105076658"
+    },
+    {
+        "Country": "West Midlands, England, United Kingdom",
+        "Country_ID": "urn:li:geo:100345145"
+    },
+    {
+        "Country": "Western Australia, Australia",
+        "Country_ID": "urn:li:geo:103716157"
+    },
+    {
+        "Country": "Xi'an Metropolitan Area",
+        "Country_ID": "urn:li:geo:90009570"
+    },
+    {
+        "Country": "Xiamen-Zhangzhou Metropolitan Area",
+        "Country_ID": "urn:li:geo:90009571"
+    },
+    {
+        "Country": "Xi'an, Shaanxi, China",
+        "Country_ID": "urn:li:geo:100275458"
+    },
+    {
+        "Country": "Xinjiang Uygur, China",
+        "Country_ID": "urn:li:geo:103021424"
+    },
+    {
+        "Country": "Xiamen, Fujian, China",
+        "Country_ID": "urn:li:geo:106160220"
+    },
+    {
+        "Country": "Shanghai, China",
+        "Country_ID": "urn:li:geo:102772228"
+    },
+    {
+        "Country": "Xalapa Metropolitan Area",
+        "Country_ID": "urn:li:geo:90010057"
+    },
+    {
+        "Country": "X5000MVM, Cordoba, Córdoba, Argentina",
+        "Country_ID": "urn:li:geo:110995814"
+    },
+    {
+        "Country": "Xuhui District, Shanghai, China",
+        "Country_ID": "urn:li:geo:106430129"
+    },
+    {
+        "Country": "Xalapa, Veracruz, Mexico",
+        "Country_ID": "urn:li:geo:103025760"
+    },
+    {
+        "Country": "Shandong, China",
+        "Country_ID": "urn:li:geo:106062776"
+    },
+    {
+        "Country": "Xuzhou, Jiangsu, China",
+        "Country_ID": "urn:li:geo:107974709"
+    },
+    {
+        "Country": "Changsha-Zhuzhou-Xiangtan Metropolitan Area",
+        "Country_ID": "urn:li:geo:90009558"
+    },
+    {
+        "Country": "Shaanxi, China",
+        "Country_ID": "urn:li:geo:102675063"
+    },
+    {
+        "Country": "Xingtai, Hebei, China",
+        "Country_ID": "urn:li:geo:106299937"
+    },
+    {
+        "Country": "Xining, Qinghai, China",
+        "Country_ID": "urn:li:geo:106903196"
+    },
+    {
+        "Country": "Chongqing, China",
+        "Country_ID": "urn:li:geo:100743148"
+    },
+    {
+        "Country": "Davao Region, Philippines",
+        "Country_ID": "urn:li:geo:106540605"
+    },
+    {
+        "Country": "Shanxi, China",
+        "Country_ID": "urn:li:geo:100732438"
+    },
+    {
+        "Country": "Xianyang, Shaanxi, China",
+        "Country_ID": "urn:li:geo:106704885"
+    },
+    {
+        "Country": "EMEA",
+        "Country_ID": "urn:li:geo:91000007"
+    },
+    {
+        "Country": "APJ",
+        "Country_ID": "urn:li:geo:91000004"
+    },
+    {
+        "Country": "MENA",
+        "Country_ID": "urn:li:geo:91000008"
+    },
+    {
+        "Country": "New York City Metropolitan Area",
+        "Country_ID": "urn:li:geo:90000070"
+    },
+    {
+        "Country": "DACH",
+        "Country_ID": "urn:li:geo:91000006"
+    },
+    {
+        "Country": "New York, United States",
+        "Country_ID": "urn:li:geo:105080838"
+    },
+    {
+        "Country": "Benelux",
+        "Country_ID": "urn:li:geo:91000005"
+    },
+    {
+        "Country": "Greater Delhi Area",
+        "Country_ID": "urn:li:geo:90009626"
+    },
+    {
+        "Country": "New York, New York, United States",
+        "Country_ID": "urn:li:geo:102571732"
+    },
+    {
+        "Country": "Los Angeles Metropolitan Area",
+        "Country_ID": "urn:li:geo:90000049"
+    },
+    {
+        "Country": "Greater São Paulo Area",
+        "Country_ID": "urn:li:geo:90009574"
+    },
+    {
+        "Country": "Yemen",
+        "Country_ID": "urn:li:geo:105962095"
+    },
+    {
+        "Country": "London Area, United Kingdom",
+        "Country_ID": "urn:li:geo:90009496"
+    },
+    {
+        "Country": "Jakarta Metropolitan Area",
+        "Country_ID": "urn:li:geo:90010101"
+    },
+    {
+        "Country": "Greater Bengaluru Area",
+        "Country_ID": "urn:li:geo:90009633"
+    },
+    {
+        "Country": "Greater Paris Metropolitan Region",
+        "Country_ID": "urn:li:geo:90009659"
+    },
+    {
+        "Country": "York, Ontario, Canada",
+        "Country_ID": "urn:li:geo:100083502"
+    },
+    {
+        "Country": "Greater Hyderabad Area",
+        "Country_ID": "urn:li:geo:90009650"
+    },
+    {
+        "Country": "San Francisco Bay Area",
+        "Country_ID": "urn:li:geo:90000084"
+    },
+    {
+        "Country": "Washington DC-Baltimore Area",
+        "Country_ID": "urn:li:geo:90000097"
+    },
+    {
+        "Country": "United States",
+        "Country_ID": "urn:li:geo:103644278"
+    },
+    {
+        "Country": "South Asia",
+        "Country_ID": "urn:li:geo:91000013"
+    },
+    {
+        "Country": "Southeast Asia",
+        "Country_ID": "urn:li:geo:91000014"
+    },
+    {
+        "Country": "Australia and New Zealand",
+        "Country_ID": "urn:li:geo:91000015"
+    },
+    {
+        "Country": "Zhejiang, China",
+        "Country_ID": "urn:li:geo:106834892"
+    },
+    {
+        "Country": "DACH",
+        "Country_ID": "urn:li:geo:91000006"
+    },
+    {
+        "Country": "South Africa",
+        "Country_ID": "urn:li:geo:104035573"
+    },
+    {
+        "Country": "Western Africa",
+        "Country_ID": "urn:li:geo:91000019"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Country_ID": "urn:li:geo:101367137"
+    },
+    {
+        "Country": "Zambia",
+        "Country_ID": "urn:li:geo:102120260"
+    },
+    {
+        "Country": "New York City Metropolitan Area",
+        "Country_ID": "urn:li:geo:90000070"
+    },
+    {
+        "Country": "Zürich Metropolitan Area",
+        "Country_ID": "urn:li:geo:90009888"
+    },
+    {
+        "Country": "Southern Africa",
+        "Country_ID": "urn:li:geo:91000017"
+    },
+    {
+        "Country": "Greater Delhi Area",
+        "Country_ID": "urn:li:geo:90009626"
+    },
+    {
+        "Country": "Los Angeles Metropolitan Area",
+        "Country_ID": "urn:li:geo:90000049"
+    },
+    {
+        "Country": "Greater São Paulo Area",
+        "Country_ID": "urn:li:geo:90009574"
+    },
+    {
+        "Country": "Zurich, Switzerland",
+        "Country_ID": "urn:li:geo:102436504"
+    },
+    {
+        "Country": "Mumbai Metropolitan Region",
+        "Country_ID": "urn:li:geo:90009639"
+    },
+    {
+        "Country": "London Area, United Kingdom",
+        "Country_ID": "urn:li:geo:90009496"
+    },
+    {
+        "Country": "Jakarta Metropolitan Area",
+        "Country_ID": "urn:li:geo:90010101"
+    }
+]
