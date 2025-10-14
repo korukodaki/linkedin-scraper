@@ -1,896 +1,501 @@
-{
+[
+  {
     "Commpany_info": {
-        "company_ID": "5281064",
-        "company Name": "3DPRINTUK",
-        "description": "3DPRINTUK is a leading 3D printing service, offering cost-effective alternatives to injection moulding for small, complex parts. We specialise in low- to medium-volume SLS, MJF, and SAF 3D printing, delivering precise, durable parts that bridge the gap between prototyping and injection moulding.nnAs a carbon-neutral, ISO 9001 and 14001:2015 certified company, we provide flexible solutions with short turnaround times, catering to businesses across the automotive, aerospace, industrial, and electronic sectors.nnKey Highlights:nnuD83DuDE80 Largest capacity SLS and MJF 3D printing service in the UK.n\u00e2\u009a\u00a1 Batch manufacturing specialists, offering substantial price breaks for higher-volume orders.nuD83DuDCBC Trade accounts available, unlocking exclusive trade pricing.nuD83DuDCE6 Scheduled and call-off orders, enabling you to plan ahead while securing low-cost options.nnWith over 10,000 companies worldwide trusting us as their manufacturing partner, we can produce anything from one-off rapid prototypes to production runs of tens of thousands of parts, on demand.nnuD83DuDCE9 Upload your CAD file now for an instant quote, or contact our customer support team at hello@3dprint-uk.co.uk for any enquiries.",
-        "website": "https://www.3dprint-uk.co.uk",
-        "number": "02086925208",
-        "Location": "London England",
-        "Specialties": "SLS 3D Printing\",\"3D Printing\",\"Prototyping\",\"Low Volume Batch Production\",\"3D Printing Service\",\"Engineering\",\"selective laser sintering\",\"contract manufacturing\",\"Multi Jet Fusion (MJF)\",\"Selective Laser Sintering (SLS)\",\"Selective Absorption Fusion (SAF)",
-        "foundedOn": "2011",
-        "Industry": "Mechanical Or Industrial Engineering",
-        "followers": "1694",
-        "employeeCountRange": [
-            "501",
-            "1000"
-        ],
-        "Company url": "https://www.linkedin.com/company/3dprintuk"
+      "company_ID": "5281064",
+      "company Name": "3DPRINTUK",
+      "description": "3DPRINTUK is a leading 3D printing service, offering cost-effective alternatives to injection moulding for small, complex parts. We specialise in low- to medium-volume SLS, MJF, and SAF 3D printing, delivering precise, durable parts that bridge the gap between prototyping and injection moulding.nnAs a carbon-neutral, ISO 9001 and 14001:2015 certified company, we provide flexible solutions with short turnaround times, catering to businesses across the automotive, aerospace, industrial, and electronic sectors.nnKey Highlights:nnuD83DuDE80 Largest capacity SLS and MJF 3D printing service in the UK.nâ¡ Batch manufacturing specialists, offering substantial price breaks for higher-volume orders.nuD83DuDCBC Trade accounts available, unlocking exclusive trade pricing.nuD83DuDCE6 Scheduled and call-off orders, enabling you to plan ahead while securing low-cost options.nnWith over 10,000 companies worldwide trusting us as their manufacturing partner, we can produce anything from one-off rapid prototypes to production runs of tens of thousands of parts, on demand.nnuD83DuDCE9 Upload your CAD file now for an instant quote, or contact our customer support team at hello@3dprint-uk.co.uk for any enquiries.",
+      "website": "https://www.3dprint-uk.co.uk",
+      "number": "02086925208",
+      "Location": "London England",
+      "Specialties": "SLS 3D Printing\",\"3D Printing\",\"Prototyping\",\"Low Volume Batch Production\",\"3D Printing Service\",\"Engineering\",\"selective laser sintering\",\"contract manufacturing\",\"Multi Jet Fusion (MJF)\",\"Selective Laser Sintering (SLS)\",\"Selective Absorption Fusion (SAF)",
+      "foundedOn": "2011",
+      "Industry": "Mechanical Or Industrial Engineering",
+      "followers": "1694",
+      "employeeCountRange": [
+        "501",
+        "1000"
+      ],
+      "Company url": "https://www.linkedin.com/company/3dprintuk"
     },
     "employee_info": [
-        {
-            "name": "Nick Allen",
-            "link": "https://www.linkedin.com/in/nickallen3dprintuk/",
-            "headline": "Founder and CEO of 3DPRINTUK",
-            "location": "London, England, United Kingdom",
-            "current_position": "Chief Executive Officer"
-        },
-        {
-            "name": "Jef Shah",
-            "link": "https://www.linkedin.com/in/jefshah/",
-            "headline": "CFO at 3DPRINTUK",
-            "location": "London, England, United Kingdom",
-            "current_position": "Chief Financial Officer"
-        }
+      {
+        "name": "Nick Allen",
+        "link": "https://www.linkedin.com/in/nickallen3dprintuk/",
+        "headline": "Founder and CEO of 3DPRINTUK",
+        "location": "London, England, United Kingdom",
+        "current_position": "Chief Executive Officer"
+      },
+      {
+        "name": "Jef Shah",
+        "link": "https://www.linkedin.com/in/jefshah/",
+        "headline": "CFO at 3DPRINTUK",
+        "location": "London, England, United Kingdom",
+        "current_position": "Chief Financial Officer"
+      }
     ]
-}
-{
+  },
+  {
     "Commpany_info": {
-        "company_ID": "69532804",
-        "company Name": "3D Printing Manchester",
-        "description": "At 3D Printing Manchester we provide a full turnkey solution to take a concept through to a 3D design which can then be 3D printed to give you your first prototype. If you then need to mass produce, we can get then injection mould to bring the unit cost down. For technical one of product or legacy parts we can produce 3D printed items in various plastics metals and carbon fibre composites - stronger than steel and lighter than aluminium. Ideal for high tech industries. For legacy part stockists, why not talk to us about increasing your stock range whilst reduce stocks, releasing cash and moving to a digital parts catalogue?",
-        "website": "https://www.3dprintingmanchester.com/",
-        "number": "0161 667 6563",
-        "Location": "Manchester Greater Manchester",
-        "Specialties": "3D design\",\"3D Printing\",\"Prototyping",
-        "foundedOn": "2020",
-        "Industry": "Design Services",
-        "followers": "46",
-        "employeeCountRange": "",
-        "Company url": "https://linkedin.com/company/3d-printing-manchester"
+      "company_ID": "69532804",
+      "company Name": "3D Printing Manchester",
+      "description": "At 3D Printing Manchester we provide a full turnkey solution to take a concept through to a 3D design which can then be 3D printed to give you your first prototype. If you then need to mass produce, we can get then injection mould to bring the unit cost down. For technical one of product or legacy parts we can produce 3D printed items in various plastics metals and carbon fibre composites - stronger than steel and lighter than aluminium. Ideal for high tech industries. For legacy part stockists, why not talk to us about increasing your stock range whilst reduce stocks, releasing cash and moving to a digital parts catalogue?",
+      "website": "https://www.3dprintingmanchester.com/",
+      "number": "0161 667 6563",
+      "Location": "Manchester Greater Manchester",
+      "Specialties": "3D design\",\"3D Printing\",\"Prototyping",
+      "foundedOn": "2020",
+      "Industry": "Design Services",
+      "followers": "46",
+      "employeeCountRange": "",
+      "Company url": "https://linkedin.com/company/3d-printing-manchester"
     },
     "employee_info": []
-}
-{
+  },
+  {
     "Commpany_info": {
-        "company_ID": "27190710",
-        "company Name": "Mark3D UK Limited - The UK's #1 Markforged Partner",
-        "description": "Mark 3D UK Limited specializes in the supply and support of the Markforged range of carbon fibre and metal 3D printing machines. nnOur business helps engineers produce (much) stronger, fully functional and better looking 3D printed parts. A combination of industry leading software, excellent machine build quality and a range of patented materials means the Markforged products are a reliable alternative to conventional methods and makes low volume manufacturing a truly viable alternative to conventional machining. nnSo if you'd like to build stronger, ship faster and spend less on manufacturing components you now have a viable alternative to consider.",
-        "website": "http://www.mark3d.co.uk",
-        "number": "08001933650",
-        "Location": "Romsley Halesowen",
-        "Specialties": "3D Printing Machines, Carbon Fibre, Metal Printing, Markforged\",\"3D Printing\",\"Additive Manufacturing\",\"Markforged\",\"Manufacturing",
-        "foundedOn": "2017",
-        "Industry": "Business Intelligence Platforms",
-        "followers": "3684",
-        "employeeCountRange": [
-            "2",
-            "10"
-        ],
-        "Company url": "https://www.linkedin.com/company/mark3d-uk-limited"
+      "company_ID": "27190710",
+      "company Name": "Mark3D UK Limited - The UK's #1 Markforged Partner",
+      "description": "Mark 3D UK Limited specializes in the supply and support of the Markforged range of carbon fibre and metal 3D printing machines. nnOur business helps engineers produce (much) stronger, fully functional and better looking 3D printed parts. A combination of industry leading software, excellent machine build quality and a range of patented materials means the Markforged products are a reliable alternative to conventional methods and makes low volume manufacturing a truly viable alternative to conventional machining. nnSo if you'd like to build stronger, ship faster and spend less on manufacturing components you now have a viable alternative to consider.",
+      "website": "http://www.mark3d.co.uk",
+      "number": "08001933650",
+      "Location": "Romsley Halesowen",
+      "Specialties": "3D Printing Machines, Carbon Fibre, Metal Printing, Markforged\",\"3D Printing\",\"Additive Manufacturing\",\"Markforged\",\"Manufacturing",
+      "foundedOn": "2017",
+      "Industry": "Business Intelligence Platforms",
+      "followers": "3684",
+      "employeeCountRange": [
+        "2",
+        "10"
+      ],
+      "Company url": "https://www.linkedin.com/company/mark3d-uk-limited"
     },
     "employee_info": [
-        {
-            "name": "Conor Marshall",
-            "link": "https://www.linkedin.com/in/conor-marshall-bb2003216",
-            "headline": "Additive Applications Engineer",
-            "location": "Coventry, England, United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Ian Weston",
-            "link": "https://www.linkedin.com/in/ian-weston-9258833",
-            "headline": "Industrial 3D printing &amp; Scanning | Managing Director at Mark3D UK Limited",
-            "location": "Romsley, England, United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Seamus Harrison",
-            "link": "https://www.linkedin.com/in/seamus-harrison",
-            "headline": "Additive Manufacturing - Markforged",
-            "location": "United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "James Whelan",
-            "link": "https://www.linkedin.com/in/james-whelan-4419b319b",
-            "headline": "Technical Assistant at Mark3D UK Limited - Specialist in Markforged Additive Manufacturing 3D Printers",
-            "location": "England, United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Lynn Marie Smith",
-            "link": "https://www.linkedin.com/in/lynn-smith",
-            "headline": "Print Stronger with Markforged-reliable, repeatable prints at the point of need. \n\nWe\u00e2\u0080\u0099ve now added Artec Scanners too!\n\nNeed Bureau?  We can help.",
-            "location": "Birmingham, England, United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Max Holland",
-            "link": "https://www.linkedin.com/in/max-holland-6989b79b",
-            "headline": "Additive Manufacturing Technical Manager at Mark3D UK Limited",
-            "location": "Romsley, England, United Kingdom",
-            "current_position": "MANAGER"
-        },
-        {
-            "name": "\u00f0\u009f\u00a6\u00be Nathaniel \u00e2\u0080\u009cThe Markforged Experts - Mark3D\u00e2\u0080\u009d Head \u00f0\u009f\u00a6\u00be",
-            "link": "https://www.linkedin.com/in/nathaniel-head",
-            "headline": "\u00f0\u009f\u009b\u00a0\u00ef\u00b8\u008fManufacture at the point of need\u00e2\u009a\u0099\u00ef\u00b8\u008f",
-            "location": "Staverton, England, United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Daniel Stokes",
-            "link": "https://www.linkedin.com/in/daniel-stokes-702734163",
-            "headline": "Helping manufacturing resilience and flexibility with Markforged 3D printing and Artec 3D scanning and reverse engineering",
-            "location": "United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "David Coats",
-            "link": "https://www.linkedin.com/in/david-coats-095552106",
-            "headline": "Helping manufacturing resilience and flexibility by 3D printing production parts at the point of need - Markforged",
-            "location": "Moodiesburn, Scotland, United Kingdom",
-            "current_position": "Employee"
-        }
+      {
+        "name": "Conor Marshall",
+        "link": "https://www.linkedin.com/in/conor-marshall-bb2003216",
+        "headline": "Additive Applications Engineer",
+        "location": "Coventry, England, United Kingdom",
+        "current_position": "Employee"
+      },
+      {
+        "name": "Ian Weston",
+        "link": "https://www.linkedin.com/in/ian-weston-9258833",
+        "headline": "Industrial 3D printing &amp; Scanning | Managing Director at Mark3D UK Limited",
+        "location": "Romsley, England, United Kingdom",
+        "current_position": "Employee"
+      },
+      {
+        "name": "Seamus Harrison",
+        "link": "https://www.linkedin.com/in/seamus-harrison",
+        "headline": "Additive Manufacturing - Markforged",
+        "location": "United Kingdom",
+        "current_position": "Employee"
+      },
+      {
+        "name": "James Whelan",
+        "link": "https://www.linkedin.com/in/james-whelan-4419b319b",
+        "headline": "Technical Assistant at Mark3D UK Limited - Specialist in Markforged Additive Manufacturing 3D Printers",
+        "location": "England, United Kingdom",
+        "current_position": "Employee"
+      },
+      {
+        "name": "Lynn Marie Smith",
+        "link": "https://www.linkedin.com/in/lynn-smith",
+        "headline": "Print Stronger with Markforged-reliable, repeatable prints at the point of need. \n\nWeâve now added Artec Scanners too!\n\nNeed Bureau?  We can help.",
+        "location": "Birmingham, England, United Kingdom",
+        "current_position": "Employee"
+      },
+      {
+        "name": "Max Holland",
+        "link": "https://www.linkedin.com/in/max-holland-6989b79b",
+        "headline": "Additive Manufacturing Technical Manager at Mark3D UK Limited",
+        "location": "Romsley, England, United Kingdom",
+        "current_position": "MANAGER"
+      },
+      {
+        "name": "ð¦¾ Nathaniel âThe Markforged Experts - Mark3Dâ Head ð¦¾",
+        "link": "https://www.linkedin.com/in/nathaniel-head",
+        "headline": "ð ï¸Manufacture at the point of needâï¸",
+        "location": "Staverton, England, United Kingdom",
+        "current_position": "Employee"
+      },
+      {
+        "name": "Daniel Stokes",
+        "link": "https://www.linkedin.com/in/daniel-stokes-702734163",
+        "headline": "Helping manufacturing resilience and flexibility with Markforged 3D printing and Artec 3D scanning and reverse engineering",
+        "location": "United Kingdom",
+        "current_position": "Employee"
+      },
+      {
+        "name": "David Coats",
+        "link": "https://www.linkedin.com/in/david-coats-095552106",
+        "headline": "Helping manufacturing resilience and flexibility by 3D printing production parts at the point of need - Markforged",
+        "location": "Moodiesburn, Scotland, United Kingdom",
+        "current_position": "Employee"
+      }
     ]
-}
-{
+  },
+  {
     "Commpany_info": {
-        "company_ID": "106864198",
-        "company Name": "3D Printing Express",
-        "description": "3D Printing Express helps startups, product teams, and hardware designers avoid long lead times, high costs, and unreliable suppliers.nnWe provide fast functional prototyping and low-volume batch 3D printing using FDM. Perfect for teams who need real parts, quickly.nnNo large orders needed. No waiting weeks. Just consistent, high-quality prints delivered on time.nnWe solve:nnLong delays from overseas suppliersnnExpensive setup costs for small runsnnPoor print quality from cheap providersnnOur clients trust us for:nnFast prototyping and design testingnnSmall-batch production (10\u00e2\u0080\u0093500 parts)nnCustom enclosures, brackets, and working partsnnBased in the UK, we focus on speed, quality, and making your ideas real\u00e2\u0080\u0094fast.nnOur Specialties Include:n3D Printing Services, FDM 3D Printing, Rapid Prototyping, Low-Volume, Manufacturing, Batch Production, Product Development Support, Hardware Prototyping, Custom Enclosures, Functional Prototypes, Manufacturing, Design for Additive Manufacturing, Engineering Prototypes, Short-Run Production, Prototype Testing, Custom Part Fabrication, 3D Printed Components, Hardware Design Assistance, Product Iteration Services, UK-Based 3D Printing.",
-        "website": "https://www.3dprintingexpress.co.uk/",
-        "number": "",
-        "Location": "Bournemouth Dorset",
-        "Specialties": "Design Services\",\"3D Printing\",\"FDM Printing\",\"3D Printing Service\",\"FDM 3D Printing\",\"Rapid Prototyping\",\"Low-Volume Manufacturing\",\"Functional Prototypes\",\"Custom Enclosures\",\"Batch Production",
-        "foundedOn": "2022",
-        "Industry": "Design Services",
-        "followers": "26",
-        "employeeCountRange": [
-            "2",
-            "10"
-        ],
-        "Company url": "https://www.linkedin.com/company/3d-printing-express"
+      "company_ID": "106864198",
+      "company Name": "3D Printing Express",
+      "description": "3D Printing Express helps startups, product teams, and hardware designers avoid long lead times, high costs, and unreliable suppliers.nnWe provide fast functional prototyping and low-volume batch 3D printing using FDM. Perfect for teams who need real parts, quickly.nnNo large orders needed. No waiting weeks. Just consistent, high-quality prints delivered on time.nnWe solve:nnLong delays from overseas suppliersnnExpensive setup costs for small runsnnPoor print quality from cheap providersnnOur clients trust us for:nnFast prototyping and design testingnnSmall-batch production (10â500 parts)nnCustom enclosures, brackets, and working partsnnBased in the UK, we focus on speed, quality, and making your ideas realâfast.nnOur Specialties Include:n3D Printing Services, FDM 3D Printing, Rapid Prototyping, Low-Volume, Manufacturing, Batch Production, Product Development Support, Hardware Prototyping, Custom Enclosures, Functional Prototypes, Manufacturing, Design for Additive Manufacturing, Engineering Prototypes, Short-Run Production, Prototype Testing, Custom Part Fabrication, 3D Printed Components, Hardware Design Assistance, Product Iteration Services, UK-Based 3D Printing.",
+      "website": "https://www.3dprintingexpress.co.uk/",
+      "number": "",
+      "Location": "Bournemouth Dorset",
+      "Specialties": "Design Services\",\"3D Printing\",\"FDM Printing\",\"3D Printing Service\",\"FDM 3D Printing\",\"Rapid Prototyping\",\"Low-Volume Manufacturing\",\"Functional Prototypes\",\"Custom Enclosures\",\"Batch Production",
+      "foundedOn": "2022",
+      "Industry": "Design Services",
+      "followers": "26",
+      "employeeCountRange": [
+        "2",
+        "10"
+      ],
+      "Company url": "https://www.linkedin.com/company/3d-printing-express"
     },
     "employee_info": []
-}
-{
+  },
+  {
     "Commpany_info": {
-        "company_ID": "2315234",
-        "company Name": "Ronset Printers Ltd",
-        "description": "DIGITAL PRINT / LARGE FORMAT AND EXHIBITION DISPLAYS & PRINTING / DESIGN & ARTWORKINGrnrnWe offer a full range of creative services to the public, trade and commercial clients alike, incorporating a full graphic design service for those who require.rnrnOur digital printing capabilities, among the most comprehensive in the North West of England, have expanded to include multiple presses from industry leaders allowing for greater flexibility in the digital print we can offer and speed of lead times.rnrnWith the growing demand for high-quality full colour print and short run lengths, we are ideally placed in the digital printer market to provide a solution for your print demands.rnrnSome of the main printing services we provide include business cards & stationery, leaflets, flyers, catalogues, newsletters, A boards, banners, posters, any large format printwork and promotional materials you require.",
-        "website": "https://ronset.co.uk/",
-        "number": "01254297100",
-        "Location": "Blackburn Lancs",
-        "Specialties": "Digital Printing\",\"Large Format Printing\",\"Exhibitions and Displays\",\"Bespoke Printing\",\"Bespoke Wallpaper Design\",\"Business Cards\",\"Large Banners\",\"A Boards\",\"Flags & Signs",
-        "foundedOn": "1961",
-        "Industry": "Printing Services",
-        "followers": "2350",
-        "employeeCountRange": [
-            "11",
-            "50"
-        ],
-        "Company url": "https://www.linkedin.com/company/ronset-ltd"
+      "company_ID": "2315234",
+      "company Name": "Ronset Printers Ltd",
+      "description": "DIGITAL PRINT / LARGE FORMAT AND EXHIBITION DISPLAYS & PRINTING / DESIGN & ARTWORKINGrnrnWe offer a full range of creative services to the public, trade and commercial clients alike, incorporating a full graphic design service for those who require.rnrnOur digital printing capabilities, among the most comprehensive in the North West of England, have expanded to include multiple presses from industry leaders allowing for greater flexibility in the digital print we can offer and speed of lead times.rnrnWith the growing demand for high-quality full colour print and short run lengths, we are ideally placed in the digital printer market to provide a solution for your print demands.rnrnSome of the main printing services we provide include business cards & stationery, leaflets, flyers, catalogues, newsletters, A boards, banners, posters, any large format printwork and promotional materials you require.",
+      "website": "https://ronset.co.uk/",
+      "number": "01254297100",
+      "Location": "Blackburn Lancs",
+      "Specialties": "Digital Printing\",\"Large Format Printing\",\"Exhibitions and Displays\",\"Bespoke Printing\",\"Bespoke Wallpaper Design\",\"Business Cards\",\"Large Banners\",\"A Boards\",\"Flags & Signs",
+      "foundedOn": "1961",
+      "Industry": "Printing Services",
+      "followers": "2350",
+      "employeeCountRange": [
+        "11",
+        "50"
+      ],
+      "Company url": "https://www.linkedin.com/company/ronset-ltd"
     },
     "employee_info": [
-        {
-            "name": "Peter Farnworth",
-            "link": "https://www.linkedin.com/in/peter-farnworth-12597034",
-            "headline": "Managing Director at Ronset",
-            "location": "Greater Blackburn with Darwen Area",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Chris Durham \u00e2\u009c\u0085",
-            "link": "https://www.linkedin.com/in/chris-durham-%E2%9C%85-5371b649",
-            "headline": "Print Professional, Commercial Director at Ronset Ltd\nBurnley Fan",
-            "location": "Blackburn, England, United Kingdom",
-            "current_position": "Employee"
-        }
+      {
+        "name": "Peter Farnworth",
+        "link": "https://www.linkedin.com/in/peter-farnworth-12597034",
+        "headline": "Managing Director at Ronset",
+        "location": "Greater Blackburn with Darwen Area",
+        "current_position": "Employee"
+      },
+      {
+        "name": "Chris Durham â",
+        "link": "https://www.linkedin.com/in/chris-durham-%E2%9C%85-5371b649",
+        "headline": "Print Professional, Commercial Director at Ronset Ltd\nBurnley Fan",
+        "location": "Blackburn, England, United Kingdom",
+        "current_position": "Employee"
+      }
     ]
-}
-{
+  },
+  {
     "Commpany_info": {
-        "company_ID": "3065985",
-        "company Name": "Hobs 3D",
-        "description": "Hobs 3D provides one of the most comprehensive ranges of high-quality 3D solutions in the world.nnWe combine cutting edge technology in 3D printing, VR, AR and CGI with traditional artistry and craftsmanship in modelmaking and 3D visualisation to support our clients in their design process, to help win bids and tenders and in public consultations. nnWe cater to multiple industries including architecture, property development, construction, engineering and fine art. Along with our sister company Hobs Reprographics, we offer face to face  client support from 18 offices across the UK.n nWe create collaborative partnerships to add value to every project to ensure our clients achieve their objectives, on time and on budget. ",
-        "website": "https://hobs3d.com/",
-        "number": "020 7014 1361",
-        "Location": "London London",
-        "Specialties": "3D printing\",\"CGI's (3D Visualisation)\",\"Augmented Reality\",\"Animations and 4D Phasing\",\"Virtual Reality\",\"3D Virtual Modelling\",\"Architectural Models\",\"3D Design\",\"Model Making\",\"Construction Bid CGI's\",\"VR for Property Consultations\",\"Fine Art 3D Printing\",\"Large Scale 3D Printing\",\"3D Scanning",
-        "foundedOn": "1969",
-        "Industry": "Printing Services",
-        "followers": "4219",
-        "employeeCountRange": [
-            "1001",
-            "5000"
-        ],
-        "Company url": "https://www.linkedin.com/company/hobs-3d"
+      "company_ID": "3065985",
+      "company Name": "Hobs 3D",
+      "description": "Hobs 3D provides one of the most comprehensive ranges of high-quality 3D solutions in the world.nnWe combine cutting edge technology in 3D printing, VR, AR and CGI with traditional artistry and craftsmanship in modelmaking and 3D visualisation to support our clients in their design process, to help win bids and tenders and in public consultations. nnWe cater to multiple industries including architecture, property development, construction, engineering and fine art. Along with our sister company Hobs Reprographics, we offer face to face  client support from 18 offices across the UK.n nWe create collaborative partnerships to add value to every project to ensure our clients achieve their objectives, on time and on budget. ",
+      "website": "https://hobs3d.com/",
+      "number": "020 7014 1361",
+      "Location": "London London",
+      "Specialties": "3D printing\",\"CGI's (3D Visualisation)\",\"Augmented Reality\",\"Animations and 4D Phasing\",\"Virtual Reality\",\"3D Virtual Modelling\",\"Architectural Models\",\"3D Design\",\"Model Making\",\"Construction Bid CGI's\",\"VR for Property Consultations\",\"Fine Art 3D Printing\",\"Large Scale 3D Printing\",\"3D Scanning",
+      "foundedOn": "1969",
+      "Industry": "Printing Services",
+      "followers": "4219",
+      "employeeCountRange": [
+        "1001",
+        "5000"
+      ],
+      "Company url": "https://www.linkedin.com/company/hobs-3d"
     },
     "employee_info": []
-}
-{
+  },
+  {
     "Commpany_info": {
-        "company_ID": "27015284",
-        "company Name": "3D People - 3D Printing Service",
-        "description": "We are on a mission to make manufacturing accessible.nn3D People provide a straightforward, stress-free platform for ordering 3D-printed custom parts online.nWith rapid prototyping and agile manufacturing services under the same roof, we bridge the gap between development and volume production for all client needs.nnOur technical consultants are available to provide you with quick quotes, guide you, and ensure your project comes to life while saving you time and money.nn3D People make additive manufacturing simple and accessible.nNo tooling is required, no minimum order quantities and the ability to update your design between batches.nnWe believe in changing the way products are made.",
-        "website": "http://3dpeople.uk",
-        "number": "020 3051 2298",
-        "Location": "London Greater London",
-        "Specialties": "3d printing\",\"rapid prototyping\",\"additive manufacturing\",\"manufacturing\",\"SLS printing\",\"MJF printing\",\"FDM printing\",\"on demand service\",\"instant online quotes\",\"express lead times\",\"industrial\",\"engineering\",\"CAD design\",\"design optimization",
-        "foundedOn": "2017",
-        "Industry": "Industrial Machinery Manufacturing",
-        "followers": "1421",
-        "employeeCountRange": "",
-        "Company url": "https://www.linkedin.com/company/27015284"
+      "company_ID": "27015284",
+      "company Name": "3D People - 3D Printing Service",
+      "description": "We are on a mission to make manufacturing accessible.nn3D People provide a straightforward, stress-free platform for ordering 3D-printed custom parts online.nWith rapid prototyping and agile manufacturing services under the same roof, we bridge the gap between development and volume production for all client needs.nnOur technical consultants are available to provide you with quick quotes, guide you, and ensure your project comes to life while saving you time and money.nn3D People make additive manufacturing simple and accessible.nNo tooling is required, no minimum order quantities and the ability to update your design between batches.nnWe believe in changing the way products are made.",
+      "website": "http://3dpeople.uk",
+      "number": "020 3051 2298",
+      "Location": "London Greater London",
+      "Specialties": "3d printing\",\"rapid prototyping\",\"additive manufacturing\",\"manufacturing\",\"SLS printing\",\"MJF printing\",\"FDM printing\",\"on demand service\",\"instant online quotes\",\"express lead times\",\"industrial\",\"engineering\",\"CAD design\",\"design optimization",
+      "foundedOn": "2017",
+      "Industry": "Industrial Machinery Manufacturing",
+      "followers": "1421",
+      "employeeCountRange": "",
+      "Company url": "https://www.linkedin.com/company/27015284"
     },
     "employee_info": [
-        {
-            "name": "Ming-Han Lin",
-            "link": "https://www.linkedin.com/in/ming-han-lin-a85b5319a",
-            "headline": "Additive manufacturing technician// Polymer &amp; Resin//",
-            "location": "United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Lachlan Kosaniuk Innes",
-            "link": "https://www.linkedin.com/in/lachlanki",
-            "headline": "Full Stack Web Developer  |  Artist",
-            "location": "Additive Manufacturing | Post-processing Technician",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Sasha Bruml",
-            "link": "https://www.linkedin.com/in/sasha-bruml-4a152722",
-            "headline": "Co-Founder at 3D People | I help engineers and designers bring their ideas to life",
-            "location": "London, England, United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Mihai Neaga",
-            "link": "https://www.linkedin.com/in/mihai-neaga-6a503a22a",
-            "headline": "Additive Manufacturing &amp; Aerospace Engineering",
-            "location": "London, England, United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Bradley Humphrey",
-            "link": "https://www.linkedin.com/in/bradley-humphrey-79617860",
-            "headline": "Additive Manufacturing Manager (AM Manager)",
-            "location": "London, England, United Kingdom",
-            "current_position": "MANAGER"
-        },
-        {
-            "name": "Felix Manley",
-            "link": "https://www.linkedin.com/in/felix-manley-a4858a87",
-            "headline": "3D People - Co Founder",
-            "location": "London, England, United Kingdom",
-            "current_position": "Employee"
-        }
+      {
+        "name": "Ming-Han Lin",
+        "link": "https://www.linkedin.com/in/ming-han-lin-a85b5319a",
+        "headline": "Additive manufacturing technician// Polymer &amp; Resin//",
+        "location": "United Kingdom",
+        "current_position": "Employee"
+      },
+      {
+        "name": "Lachlan Kosaniuk Innes",
+        "link": "https://www.linkedin.com/in/lachlanki",
+        "headline": "Full Stack Web Developer  |  Artist",
+        "location": "Additive Manufacturing | Post-processing Technician",
+        "current_position": "Employee"
+      },
+      {
+        "name": "Sasha Bruml",
+        "link": "https://www.linkedin.com/in/sasha-bruml-4a152722",
+        "headline": "Co-Founder at 3D People | I help engineers and designers bring their ideas to life",
+        "location": "London, England, United Kingdom",
+        "current_position": "Employee"
+      },
+      {
+        "name": "Mihai Neaga",
+        "link": "https://www.linkedin.com/in/mihai-neaga-6a503a22a",
+        "headline": "Additive Manufacturing &amp; Aerospace Engineering",
+        "location": "London, England, United Kingdom",
+        "current_position": "Employee"
+      },
+      {
+        "name": "Bradley Humphrey",
+        "link": "https://www.linkedin.com/in/bradley-humphrey-79617860",
+        "headline": "Additive Manufacturing Manager (AM Manager)",
+        "location": "London, England, United Kingdom",
+        "current_position": "MANAGER"
+      },
+      {
+        "name": "Felix Manley",
+        "link": "https://www.linkedin.com/in/felix-manley-a4858a87",
+        "headline": "3D People - Co Founder",
+        "location": "London, England, United Kingdom",
+        "current_position": "Employee"
+      }
     ]
-}
-{
+  },
+  {
     "Commpany_info": {
-        "company_ID": "10207685",
-        "company Name": "Printing Portal",
-        "description": "Printing Portal provides flexible solutions to small batch production using a combination of CAD Drawing, 3D Scanning and Reverse Engineering skills. nOur skillset allows us to educate, advise and carryout work in rapid production, 3D analysis and models ready for CGI/animation.nWe provide solutions for customers in healthcare, automotive, aerospace, consumer goods, and art and design.",
-        "website": "http://www.printingportalhub.co.uk",
-        "number": "",
-        "Location": "DARTFORD KENT",
-        "Specialties": "3d scanning\",\"3d printing\",\"3d modeling\",\"model making\",\"reverse engineering\",\"small batch production",
-        "foundedOn": "",
-        "Industry": "Industrial Machinery Manufacturing",
-        "followers": "395",
-        "employeeCountRange": [
-            "51",
-            "200"
-        ],
-        "Company url": "https://www.linkedin.com/company/printing-portal"
+      "company_ID": "10207685",
+      "company Name": "Printing Portal",
+      "description": "Printing Portal provides flexible solutions to small batch production using a combination of CAD Drawing, 3D Scanning and Reverse Engineering skills. nOur skillset allows us to educate, advise and carryout work in rapid production, 3D analysis and models ready for CGI/animation.nWe provide solutions for customers in healthcare, automotive, aerospace, consumer goods, and art and design.",
+      "website": "http://www.printingportalhub.co.uk",
+      "number": "",
+      "Location": "DARTFORD KENT",
+      "Specialties": "3d scanning\",\"3d printing\",\"3d modeling\",\"model making\",\"reverse engineering\",\"small batch production",
+      "foundedOn": "",
+      "Industry": "Industrial Machinery Manufacturing",
+      "followers": "395",
+      "employeeCountRange": [
+        "51",
+        "200"
+      ],
+      "Company url": "https://www.linkedin.com/company/printing-portal"
     },
     "employee_info": [
-        {
-            "name": "Ufuk Cifci",
-            "link": "https://www.linkedin.com/in/cfcufuk",
-            "headline": "3D Printing | Additive Manufacturing | Service Engineer | Mechanical Design | Composite Materials Technology",
-            "location": "United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "James Hawkins",
-            "link": "https://www.linkedin.com/in/james-hawkins-87961029",
-            "headline": "Production 3D Printing - Printing Portal",
-            "location": "Greater London, England, United Kingdom",
-            "current_position": "Employee"
-        }
+      {
+        "name": "Ufuk Cifci",
+        "link": "https://www.linkedin.com/in/cfcufuk",
+        "headline": "3D Printing | Additive Manufacturing | Service Engineer | Mechanical Design | Composite Materials Technology",
+        "location": "United Kingdom",
+        "current_position": "Employee"
+      },
+      {
+        "name": "James Hawkins",
+        "link": "https://www.linkedin.com/in/james-hawkins-87961029",
+        "headline": "Production 3D Printing - Printing Portal",
+        "location": "Greater London, England, United Kingdom",
+        "current_position": "Employee"
+      }
     ]
-}
-{
+  },
+  {
     "Commpany_info": {
-        "company_ID": "687353",
-        "company Name": "Global Inkjet Systems Ltd (GIS)",
-        "description": "Global Inkjet Systems (GIS), a Nano Dimension division, is the global leader in developing tailored software and system components for industrial markets, with over 17 years of proven innovation in the field. GIS technology is production capable and designed to work reliably in 24/7 rugged industrial settings for key industrial printing applications such as ceramics, labels, textiles, plastic cards, wide format graphics, 3D printing and materials deposition. nnWith continuous investment in R&D, our collaborative approach offers you the control and performance you need to print faster, smarter, better. ",
-        "website": "http://www.globalinkjetsystems.com",
-        "number": "+44 1223 733733",
-        "Location": "Cambridge Cambridge",
-        "Specialties": "Electronics & drivers for industrial inkjet prinheads\",\"High speed variable data RIP\",\"Innovative software solutions for complex inkjet applications\",\"Ink supply system components",
-        "foundedOn": "2006",
-        "Industry": "Printing Services",
-        "followers": "6898",
-        "employeeCountRange": "",
-        "Company url": "http://www.linkedin.com/company/global-inkjet-systems-ltd"
+      "company_ID": "687353",
+      "company Name": "Global Inkjet Systems Ltd (GIS)",
+      "description": "Global Inkjet Systems (GIS), a Nano Dimension division, is the global leader in developing tailored software and system components for industrial markets, with over 17 years of proven innovation in the field. GIS technology is production capable and designed to work reliably in 24/7 rugged industrial settings for key industrial printing applications such as ceramics, labels, textiles, plastic cards, wide format graphics, 3D printing and materials deposition. nnWith continuous investment in R&D, our collaborative approach offers you the control and performance you need to print faster, smarter, better. ",
+      "website": "http://www.globalinkjetsystems.com",
+      "number": "+44 1223 733733",
+      "Location": "Cambridge Cambridge",
+      "Specialties": "Electronics & drivers for industrial inkjet prinheads\",\"High speed variable data RIP\",\"Innovative software solutions for complex inkjet applications\",\"Ink supply system components",
+      "foundedOn": "2006",
+      "Industry": "Printing Services",
+      "followers": "6898",
+      "employeeCountRange": "",
+      "Company url": "http://www.linkedin.com/company/global-inkjet-systems-ltd"
     },
     "employee_info": [
-        {
-            "name": "Steve Williamson",
-            "link": "https://www.linkedin.com/in/rfdesign/",
-            "headline": "CEO / GM at Global Inkjet Systems Ltd (GIS) - A Nano Dimension Division",
-            "location": "Cambridge, England, United Kingdom",
-            "current_position": ""
-        },
-        {
-            "name": "Pauline Douglass",
-            "link": "https://www.linkedin.com/in/paulinewhitakerbethel/",
-            "headline": "Business Support Manager at Global Inkjet Systems Ltd (GIS)",
-            "location": "Greater Ipswich Area",
-            "current_position": "Operations Coordinator &amp; PA to"
-        }
+      {
+        "name": "Steve Williamson",
+        "link": "https://www.linkedin.com/in/rfdesign/",
+        "headline": "CEO / GM at Global Inkjet Systems Ltd (GIS) - A Nano Dimension Division",
+        "location": "Cambridge, England, United Kingdom",
+        "current_position": ""
+      },
+      {
+        "name": "Pauline Douglass",
+        "link": "https://www.linkedin.com/in/paulinewhitakerbethel/",
+        "headline": "Business Support Manager at Global Inkjet Systems Ltd (GIS)",
+        "location": "Greater Ipswich Area",
+        "current_position": "Operations Coordinator &amp; PA to"
+      }
     ]
-}
-{
+  },
+  {
     "Commpany_info": {
-        "company_ID": "79740182",
-        "company Name": "THREEDY Printers Ltd",
-        "description": "Threedy Printers have designed and manufactured high quality, reliable 3D printers since 2013.  The printers have found homes in education, prototyping and small batch manufacturing.nThe company has expanded to offer a design consultancy and prototyping service as well as a 3D printing bureau for small batch printing runs or one-offs.",
-        "website": "https://threedyprinters.com/",
-        "number": "01462684648",
-        "Location": "Letchworth England",
-        "Specialties": "3D Printing\",\"Design Consultancy\",\"3D Printer manufacturing",
-        "foundedOn": "2013",
-        "Industry": "IT Services and IT Consulting",
-        "followers": "7",
-        "employeeCountRange": "",
-        "Company url": "https://www.linkedin.com/company/threedy-printers-ltd"
+      "company_ID": "79740182",
+      "company Name": "THREEDY Printers Ltd",
+      "description": "Threedy Printers have designed and manufactured high quality, reliable 3D printers since 2013.  The printers have found homes in education, prototyping and small batch manufacturing.nThe company has expanded to offer a design consultancy and prototyping service as well as a 3D printing bureau for small batch printing runs or one-offs.",
+      "website": "https://threedyprinters.com/",
+      "number": "01462684648",
+      "Location": "Letchworth England",
+      "Specialties": "3D Printing\",\"Design Consultancy\",\"3D Printer manufacturing",
+      "foundedOn": "2013",
+      "Industry": "IT Services and IT Consulting",
+      "followers": "7",
+      "employeeCountRange": "",
+      "Company url": "https://www.linkedin.com/company/threedy-printers-ltd"
     },
     "employee_info": []
-}
-{
+  },
+  {
     "Commpany_info": {
-        "company_ID": "18305592",
-        "company Name": "Print My Part",
-        "description": "Print My Part is a reliable and cost effective product design consultancy and 3D printing service. Founded by a qualified product design engineer with several years of industry experience bringing consumer products to market, the Print My Part design and bureau service aims to help creatives, students and businesses bring their ideas and designs to life.",
-        "website": "http://www.printmypart.co.uk",
-        "number": "",
-        "Location": "Ely Cambridgeshire",
-        "Specialties": "3D Printing\",\"Product Design\",\"FDP Modeling\",\"Model Making\",\"Rapid Prototyping\",\"Small Scale Manufacture",
-        "foundedOn": "",
-        "Industry": "Media Production",
-        "followers": "22",
-        "employeeCountRange": "",
-        "Company url": "https://www.linkedin.com/company/18305592"
+      "company_ID": "18305592",
+      "company Name": "Print My Part",
+      "description": "Print My Part is a reliable and cost effective product design consultancy and 3D printing service. Founded by a qualified product design engineer with several years of industry experience bringing consumer products to market, the Print My Part design and bureau service aims to help creatives, students and businesses bring their ideas and designs to life.",
+      "website": "http://www.printmypart.co.uk",
+      "number": "",
+      "Location": "Ely Cambridgeshire",
+      "Specialties": "3D Printing\",\"Product Design\",\"FDP Modeling\",\"Model Making\",\"Rapid Prototyping\",\"Small Scale Manufacture",
+      "foundedOn": "",
+      "Industry": "Media Production",
+      "followers": "22",
+      "employeeCountRange": "",
+      "Company url": "https://www.linkedin.com/company/18305592"
     },
     "employee_info": []
-}
-{
+  },
+  {
     "Commpany_info": {
-        "company_ID": "97250",
-        "company Name": "Wix",
-        "description": "Get the flexibility to create a site that looks how you want and functions how you need. No coding. No compromises. nnWith endless design capabilities, built-in business solutions and AI agents at every step of your journey, you can confidently design, launch and scale your site on your terms. nnTrusted by over 280 million, Wix is tailor-made for independent businesses and brands forging their path and owning their future. nnWhat will you create?n",
-        "website": "http://www.Wix.com",
-        "number": "",
-        "Location": "New York New York",
-        "Specialties": "Free Website Builder\",\"Web Design\",\"Mobile Websites\",\"HTML5 Websites\",\"Web Apps\",\"Create a Website\",\"Website Templates\",\"Domain Registration\",\"Business Website\",\"Personal Website\",\"Free Blog",
-        "foundedOn": "2006",
-        "Industry": "Senior Software Engineer | Full Stack Developer",
-        "followers": "353295",
-        "employeeCountRange": [
-            "1001",
-            "5000"
-        ],
-        "Company url": "https://www.linkedin.com/company/wix-com"
+      "company_ID": "97250",
+      "company Name": "Wix",
+      "description": "Get the flexibility to create a site that looks how you want and functions how you need. No coding. No compromises. nnWith endless design capabilities, built-in business solutions and AI agents at every step of your journey, you can confidently design, launch and scale your site on your terms. nnTrusted by over 280 million, Wix is tailor-made for independent businesses and brands forging their path and owning their future. nnWhat will you create?n",
+      "website": "http://www.Wix.com",
+      "number": "",
+      "Location": "New York New York",
+      "Specialties": "Free Website Builder\",\"Web Design\",\"Mobile Websites\",\"HTML5 Websites\",\"Web Apps\",\"Create a Website\",\"Website Templates\",\"Domain Registration\",\"Business Website\",\"Personal Website\",\"Free Blog",
+      "foundedOn": "2006",
+      "Industry": "Senior Software Engineer | Full Stack Developer",
+      "followers": "353295",
+      "employeeCountRange": [
+        "1001",
+        "5000"
+      ],
+      "Company url": "https://www.linkedin.com/company/wix-com"
     },
     "employee_info": [
-        {
-            "name": "Avishai Abrahami",
-            "link": "https://www.linkedin.com/in/abrahamiavishai/",
-            "headline": "CEO &amp; Co-Founder at Wix.com",
-            "location": "New York, New York, United States",
-            "current_position": "Co-Founder,"
-        },
-        {
-            "name": "Mark Tluszcz",
-            "link": "https://www.linkedin.com/in/mark-tluszcz-a024b51/",
-            "headline": "Chairman of Wix &amp; K Health and CEO of Mangrove",
-            "location": "Luxembourg",
-            "current_position": "Chairman of the Board"
-        },
-        {
-            "name": "Allon Bloch",
-            "link": "https://www.linkedin.com/in/allon-bloch-70b1223/",
-            "headline": "Co-founder &amp; CEO of K Health,  Wix board.  X-CEO Vroom, Wix",
-            "location": "New York, New York, United States",
-            "current_position": "Co-Founder &amp;"
-        },
-        {
-            "name": "Daphna Amitay",
-            "link": "https://www.linkedin.com/in/daphna-amitay-80266092/",
-            "headline": "Chief of Staff to CEO",
-            "location": "Israel",
-            "current_position": "Chief of Staff to"
-        },
-        {
-            "name": "Dedi Schwartz",
-            "link": "https://www.linkedin.com/in/dedi-schwartz-9699124/",
-            "headline": "Chief Business Officer at Wix",
-            "location": "Israel",
-            "current_position": "Chief Product Officer"
-        },
-        {
-            "name": "Yaron Orenstein",
-            "link": "https://www.linkedin.com/in/yaronorenstein/",
-            "headline": "Co-CEO @ Hopp.co | Kickstarting and Fueling Online Business Journeys",
-            "location": "Tel Aviv District, Israel",
-            "current_position": "PA for"
-        },
-        {
-            "name": "Eric Kavelaars",
-            "link": "https://www.linkedin.com/in/erickavelaars/",
-            "headline": "CEO of AIGI &amp; AI Agency Website. Investor, Affiliate, Info.",
-            "location": "Dubai, United Arab Emirates",
-            "current_position": "Co-<strong>"
-        }
+      {
+        "name": "Avishai Abrahami",
+        "link": "https://www.linkedin.com/in/abrahamiavishai/",
+        "headline": "CEO &amp; Co-Founder at Wix.com",
+        "location": "New York, New York, United States",
+        "current_position": "Co-Founder,"
+      },
+      {
+        "name": "Mark Tluszcz",
+        "link": "https://www.linkedin.com/in/mark-tluszcz-a024b51/",
+        "headline": "Chairman of Wix &amp; K Health and CEO of Mangrove",
+        "location": "Luxembourg",
+        "current_position": "Chairman of the Board"
+      },
+      {
+        "name": "Allon Bloch",
+        "link": "https://www.linkedin.com/in/allon-bloch-70b1223/",
+        "headline": "Co-founder &amp; CEO of K Health,  Wix board.  X-CEO Vroom, Wix",
+        "location": "New York, New York, United States",
+        "current_position": "Co-Founder &amp;"
+      },
+      {
+        "name": "Daphna Amitay",
+        "link": "https://www.linkedin.com/in/daphna-amitay-80266092/",
+        "headline": "Chief of Staff to CEO",
+        "location": "Israel",
+        "current_position": "Chief of Staff to"
+      },
+      {
+        "name": "Dedi Schwartz",
+        "link": "https://www.linkedin.com/in/dedi-schwartz-9699124/",
+        "headline": "Chief Business Officer at Wix",
+        "location": "Israel",
+        "current_position": "Chief Product Officer"
+      },
+      {
+        "name": "Yaron Orenstein",
+        "link": "https://www.linkedin.com/in/yaronorenstein/",
+        "headline": "Co-CEO @ Hopp.co | Kickstarting and Fueling Online Business Journeys",
+        "location": "Tel Aviv District, Israel",
+        "current_position": "PA for"
+      },
+      {
+        "name": "Eric Kavelaars",
+        "link": "https://www.linkedin.com/in/erickavelaars/",
+        "headline": "CEO of AIGI &amp; AI Agency Website. Investor, Affiliate, Info.",
+        "location": "Dubai, United Arab Emirates",
+        "current_position": "Co-<strong>"
+      }
     ]
-}
-{
+  },
+  {
     "Commpany_info": {
-        "company_ID": "76495886",
-        "company Name": "3D Scotland",
-        "description": "Design and manufacture high-detail Scottish products uD83CuDFF4uDB40uDC67uDB40uDC62uDB40uDC73uDB40uDC63uDB40uDC74uDB40uDC7F",
-        "website": "www.3dscotland.net",
-        "number": "",
-        "Location": "Glasgow Scotland",
-        "Specialties": "",
-        "foundedOn": "2021",
-        "Industry": "Facilities Services",
-        "followers": "252",
-        "employeeCountRange": "",
-        "Company url": "https://www.linkedin.com/company/3d-glasgow"
+      "company_ID": "76495886",
+      "company Name": "3D Scotland",
+      "description": "Design and manufacture high-detail Scottish products uD83CuDFF4uDB40uDC67uDB40uDC62uDB40uDC73uDB40uDC63uDB40uDC74uDB40uDC7F",
+      "website": "www.3dscotland.net",
+      "number": "",
+      "Location": "Glasgow Scotland",
+      "Specialties": "",
+      "foundedOn": "2021",
+      "Industry": "Facilities Services",
+      "followers": "252",
+      "employeeCountRange": "",
+      "Company url": "https://www.linkedin.com/company/3d-glasgow"
     },
     "employee_info": [
-        {
-            "name": "Alex Duff",
-            "link": "https://www.linkedin.com/in/alex-duff",
-            "headline": "Senior Product Engineer at EBar",
-            "location": "United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Michael O'Donnell",
-            "link": "https://www.linkedin.com/in/michael-o-donnell-227231151",
-            "headline": "Technical Project Manager // Director // Designer",
-            "location": "Greater Glasgow Area",
-            "current_position": "MANAGER"
-        }
+      {
+        "name": "Alex Duff",
+        "link": "https://www.linkedin.com/in/alex-duff",
+        "headline": "Senior Product Engineer at EBar",
+        "location": "United Kingdom",
+        "current_position": "Employee"
+      },
+      {
+        "name": "Michael O'Donnell",
+        "link": "https://www.linkedin.com/in/michael-o-donnell-227231151",
+        "headline": "Technical Project Manager // Director // Designer",
+        "location": "Greater Glasgow Area",
+        "current_position": "MANAGER"
+      }
     ]
-}
-{
+  },
+  {
     "Commpany_info": {
-        "company_ID": "18644186",
-        "company Name": "NFire Labs",
-        "description": "We specialise in rapid prototyping and the manufacture high quality 3D printers. Our machines are modular and can be tailored to each individual requirement. Our production techniques cover 3D printing, CNC machining, laser cutting, mould making and many more. Between our skilled set of in-house experts, we have extensive knowledge in engineering, product design and modelling. This allows us to provide a professional service to projects which require a physical product. Whether it's a proof of concept, or a batch production run, we can turn your imagination into reality. Our CAD and design team can also make edits and tweaks to aid function or manufacturing to streamline the entire process saving you time and money.",
-        "website": "http://www.nfirelabs.com",
-        "number": "01482 298635",
-        "Location": "Hull East Yorkshire",
-        "Specialties": "Rapid Prototyping\",\"Product Design\",\"CAD\",\"3D Printing\",\"Additive Manufacturing\",\"Innovation\",\"Creativity\",\"Product Development\",\"Local\",\"Personal",
-        "foundedOn": "2014",
-        "Industry": "IT Services and IT Consulting",
-        "followers": "112",
-        "employeeCountRange": "",
-        "Company url": "https://www.linkedin.com/company/18644186"
+      "company_ID": "18644186",
+      "company Name": "NFire Labs",
+      "description": "We specialise in rapid prototyping and the manufacture high quality 3D printers. Our machines are modular and can be tailored to each individual requirement. Our production techniques cover 3D printing, CNC machining, laser cutting, mould making and many more. Between our skilled set of in-house experts, we have extensive knowledge in engineering, product design and modelling. This allows us to provide a professional service to projects which require a physical product. Whether it's a proof of concept, or a batch production run, we can turn your imagination into reality. Our CAD and design team can also make edits and tweaks to aid function or manufacturing to streamline the entire process saving you time and money.",
+      "website": "http://www.nfirelabs.com",
+      "number": "01482 298635",
+      "Location": "Hull East Yorkshire",
+      "Specialties": "Rapid Prototyping\",\"Product Design\",\"CAD\",\"3D Printing\",\"Additive Manufacturing\",\"Innovation\",\"Creativity\",\"Product Development\",\"Local\",\"Personal",
+      "foundedOn": "2014",
+      "Industry": "IT Services and IT Consulting",
+      "followers": "112",
+      "employeeCountRange": "",
+      "Company url": "https://www.linkedin.com/company/18644186"
     },
     "employee_info": [
-        {
-            "name": "Alex Youden",
-            "link": "https://www.linkedin.com/in/alex-youden-046738b1/",
-            "headline": "Solving real-world problems through rapid prototyping, IoT devices, and innovation-led engineering - helping businesses move faster, work smarter, and make better decisions.",
-            "location": "United Kingdom",
-            "current_position": "Founder and Managing Director"
-        }
+      {
+        "name": "Alex Youden",
+        "link": "https://www.linkedin.com/in/alex-youden-046738b1/",
+        "headline": "Solving real-world problems through rapid prototyping, IoT devices, and innovation-led engineering - helping businesses move faster, work smarter, and make better decisions.",
+        "location": "United Kingdom",
+        "current_position": "Founder and Managing Director"
+      }
     ]
-}
-{
-    "Commpany_info": {
-        "company_ID": "11779850",
-        "company Name": "Reed Digital",
-        "description": "Based in the Suffolk town of Ipswich, Reed Digital are a UK based leading online digital printers with specialisms in digital printing and finishing services. We print brochures, leaflets, business cards, posters, booklets and more.n",
-        "website": "http://reeddigital.co.uk",
-        "number": "",
-        "Location": "Ipswich England",
-        "Specialties": "",
-        "foundedOn": "",
-        "Industry": "Musicians",
-        "followers": "45",
-        "employeeCountRange": [
-            "2",
-            "10"
-        ],
-        "Company url": "https://www.linkedin.com/company/reed-digital"
-    },
-    "employee_info": []
-}
-{
-    "Commpany_info": {
-        "company_ID": "2476758",
-        "company Name": "Design Happy - Branding & Packaging Design",
-        "description": "We are a branding and packaging design agency. We transform brand design challenges into impactful experiences, working seamlessly from insights and ideas to execution across branding, packaging, website & retailnnBrand Strategy / Brand Design / Packaging Design / Brand Communicationnn\"Design Happy has a very beautiful, elegant and unique design signature. They show a variety of concepts, each developed with love to detail and a wonderful idea behind. Their collaborative style is excellent, they feel like a part of our in-house design team - a trusted, engaged relationship which is very hard to find. We tested Design Happy first on several pilot projects. They performed fantastic on all, and stakeholders loved working with them. Hence, we decided to take them into our agency pool to ensure we can run more projects in the future.\"\u00e2\u0080\u008bnnSilke Bochat, Head of Design Eastern Europe, PepsiCo IncnnFor more testimonials visit:nwww.recommendedagencies.com/design-happy/testimonialsnnnn",
-        "website": "http://www.designhappy.co.uk",
-        "number": "0208 067 8731",
-        "Location": "Surbiton Surrey",
-        "Specialties": "brand\",\"design\",\"insight\",\"strategy\",\"commercial\",\"creativity\",\"conceptualise\",\"effectiveness\",\"future\",\"global\",\"graphic design\",\"growth\",\"ideas\",\"innovation\",\"international\",\"logo\",\"naming\",\"website\",\"packaging\",\"structure\",\"Startups",
-        "foundedOn": "2010",
-        "Industry": "Design",
-        "followers": "3170",
-        "employeeCountRange": "",
-        "Company url": "https://www.linkedin.com/company/2476758"
-    },
-    "employee_info": [
-        {
-            "name": "Adrian Turnham",
-            "link": "https://www.linkedin.com/in/adrian-turnham-1b33a459",
-            "headline": "Creative Director &amp; Partner",
-            "location": "United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Thomas Simms",
-            "link": "https://www.linkedin.com/in/thomas-simms-760143244",
-            "headline": "Designer at Design Happy",
-            "location": "Wandsworth, England, United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Richard Bray",
-            "link": "https://www.linkedin.com/in/richard-bray",
-            "headline": "Creative Partner at Design Happy - Branding and Packaging",
-            "location": "London Area, United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Connor Beard",
-            "link": "https://www.linkedin.com/in/connorbeard",
-            "headline": "Designer at Design Happy - Branding &amp; Packaging Design",
-            "location": "London, England, United Kingdom",
-            "current_position": "Employee"
-        }
-    ]
-}
-{
-    "Commpany_info": {
-        "company_ID": "7056827",
-        "company Name": "Insight Surgery",
-        "description": "Insight Surgery is a global leader in the provision of Personalized Medical Devices and Services. With multiple Point of Care facilities in leading medical institutions, both in the US and in the UK NHS,  their FDA and ISO approved offerings for Digital Planning, Surgical Guides, Implants & Anatomical models can be provided in unparalleled time frames to clinicians \u00e2\u0080\u0093 days not weeks.nnWe cover all surgical disciplines including: Orthopaedics. Orthopaedic Oncology, CMF, Paediatrics, Cardiology and Surgical Simulation / Phantoms, all delivered via our approved Platform, EmbedMed.n",
-        "website": "https://www.insightsurgery.com/",
-        "number": "",
-        "Location": "Houston Texas",
-        "Specialties": "3D Printing\",\"3D Scanning\",\"Embedded 3D Printer Faculties\",\"Medical 3D Printing\",\"Orthopaedic Surgery\",\"Sarcoma Surgery\",\"Congenital Cardiology\",\"Paediatric Surgery\",\"Clinical Education\",\"Cranio-Maxillofacial Surgery\",\"personalized surgery \",\"Digital planning of surgery",
-        "foundedOn": "2015",
-        "Industry": "Medical Device",
-        "followers": "3404",
-        "employeeCountRange": [
-            "2",
-            "10"
-        ],
-        "Company url": "https://www.linkedin.com/company/insightsurgery"
-    },
-    "employee_info": [
-        {
-            "name": "Henry Pinchbeck",
-            "link": "https://www.linkedin.com/in/henry-pinchbeck-7357b43/",
-            "headline": "CEO at Insight Surgery",
-            "location": "Greater London, England, United Kingdom",
-            "current_position": "Investor Director"
-        },
-        {
-            "name": "David Lembo",
-            "link": "https://www.linkedin.com/in/david-lembo-320b4833/",
-            "headline": "Chief Commercial Officer (CCO) at Insight Surgery",
-            "location": "Phoenix, Arizona, United States",
-            "current_position": "Investor Director"
-        }
-    ]
-}
-{
-    "Commpany_info": {
-        "company_ID": "76139560",
-        "company Name": "HLH Rapid Limited",
-        "description": "HLH Rapid is one of the world's leading manufacturers of prototypes, CNC machined parts and prototypes, 3D printing, rapid injection moulding and more. Our niche is delivering high quality, rapid manufacturing solutions for low to medium volume parts and projects. We work with startups to Fortune 500 companies to deliver prototypes and parts in rapid lead times. ",
-        "website": "https://www.hlhrapid.com",
-        "number": "+44 1138243578",
-        "Location": "shenzhen Guangdong",
-        "Specialties": "prototypes\",\"cnc machining\",\"3d printing\",\"rapid prototype\",\"injection molding\",\"die casting\",\"sheet metal prototypes\",\"precision machined prototypes\",\"additive manufacturing\",\"metrology\",\"project management\",\"outsourcing\",\"vacuum casting",
-        "foundedOn": "2020",
-        "Industry": "Manufacturing",
-        "followers": "2053",
-        "employeeCountRange": [
-            "201",
-            "500"
-        ],
-        "Company url": "https://www.linkedin.com/company/hlh-rapid"
-    },
-    "employee_info": [
-        {
-            "name": "James Murphy",
-            "link": "https://www.linkedin.com/in/jpmurphy1/",
-            "headline": "Prototyping, 3D printing, rapid manufacturing, and China expert - MBA, Green Belt",
-            "location": "Leeds, England, United Kingdom",
-            "current_position": "Director"
-        }
-    ]
-}
-{
-    "Commpany_info": {
-        "company_ID": "11968649",
-        "company Name": "Treetop Design and Print",
-        "description": "Treetop\u00e2\u0080\u0099s routes are firmly in print, but have grown over the years to provide much, much more. Formed by a strong partnership between father and son, we realise how some things just work better, together. So, we offer a seamless, integrated service to all of our customers. From memorable logo design, identity and branding, through to printed media such as business cards, brochures, exhibition displays and building wraps. From websites designed for ease of use through to video creation and animations that bring stills to life. We\u00e2\u0080\u0099ve got over 30 years of knowledge servicing organisations, big and small, with brands to protect and some to create.",
-        "website": "http://www.treetopdesignandprint.com",
-        "number": "",
-        "Location": "Crawley West Sussex",
-        "Specialties": "",
-        "foundedOn": "1980",
-        "Industry": "Printing Services",
-        "followers": "262",
-        "employeeCountRange": [
-            "51",
-            "200"
-        ],
-        "Company url": "https://www.linkedin.com/company/treetopdesignandprint"
-    },
-    "employee_info": [
-        {
-            "name": "Will Lovegrove",
-            "link": "https://www.linkedin.com/in/will-lovegrove-0800653a",
-            "headline": "Partner at Treetop Design and Print",
-            "location": "Redhill, England, United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Graham Lovegrove",
-            "link": "https://www.linkedin.com/in/graham-lovegrove-7360b821",
-            "headline": "Owner, Treetop Design and Print",
-            "location": "Redhill, England, United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Tyna Campbell",
-            "link": "https://www.linkedin.com/in/tyna-campbell-5b00956b",
-            "headline": "Estimator at Treetop Design and Print",
-            "location": "Crawley, England, United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Stuart Bowers",
-            "link": "https://www.linkedin.com/in/stuart-bowers-a2887ba8",
-            "headline": "Design and Print",
-            "location": "Horsham, England, United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Elaine Hammond",
-            "link": "https://www.linkedin.com/in/elaine-hammond",
-            "headline": "Business Development/Marketing at Treetop Design and Print",
-            "location": "Redhill, England, United Kingdom",
-            "current_position": "Employee"
-        }
-    ]
-}
-{
-    "Commpany_info": {
-        "company_ID": "104014592",
-        "company Name": "myprintpod",
-        "description": "We are a business that strongly believes manufacturing should be done locally and with renewable resources. We pride ourselves on our ability to move from a customers idea to a manufactured part quickly using state of the art 3d printing and recycled materials. nnCome join us on our sustainable journey!",
-        "website": "https://www.myprintpod.com",
-        "number": "",
-        "Location": "Portsmouth Hampshire",
-        "Specialties": "3d printing\",\"additive manufacturing\",\"mechatronics\",\"sustainable manufacturing",
-        "foundedOn": "2024",
-        "Industry": "Defense and Space Manufacturing",
-        "followers": "24",
-        "employeeCountRange": "",
-        "Company url": "https://www.linkedin.com/company/104014592"
-    },
-    "employee_info": [
-        {
-            "name": "Mike Griffin",
-            "link": "https://www.linkedin.com/in/mikegriffinasl",
-            "headline": "From 3d printing, augmented reality, artificial intelligence and sustainability - developing innovative solutions that actually work",
-            "location": "Southwick, England, United Kingdom",
-            "current_position": "Employee"
-        }
-    ]
-}
-{
-    "Commpany_info": {
-        "company_ID": "2462948",
-        "company Name": "Thinklaser Limited",
-        "description": "Thinklaser design, develop and manufacture Laser marking, Laser engraving & Laser cutting systems. Desktop, stand alone and fully line integrated solutions.rnrnWe also provide 3rd party design solutions for laser optical modules.rnrnAs part of how we develop our laser machines we can also offer subcontracting laser marking, engraving and cutting services to all industry sectors. We have both nd:yag and CO2 abilities, so are able to cover most manufacturing materials and applications, processing thin film and foils for cutting.",
-        "website": "http://www.thinklaser.com",
-        "number": "",
-        "Location": "REDHILL Surrey",
-        "Specialties": "Laser Marking\",\"Laser Engraving\",\"Laser Cutting\",\"Laser System Manufacturing\",\"Laser Services\",\"Subcontract Laser Services\",\"CO2 Laser Systems\",\"Fibre Laser Systems\",\"YAG Laser Systems\",\"Bespoke Laser Systems",
-        "foundedOn": "2000",
-        "Industry": "Machinery Manufacturing",
-        "followers": "621",
-        "employeeCountRange": [
-            "11",
-            "50"
-        ],
-        "Company url": "https://www.linkedin.com/company/thinklaser-limited"
-    },
-    "employee_info": [
-        {
-            "name": "Adrian Norton",
-            "link": "https://www.linkedin.com/in/adrian-norton-20862714",
-            "headline": "Managing Director at Thinklaser limited",
-            "location": "Reigate, England, United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Joanna Hall",
-            "link": "https://www.linkedin.com/in/joanna-hall-485941b4",
-            "headline": "Finance Manager at Thinklaser LTD",
-            "location": "Horley, England, United Kingdom",
-            "current_position": "MANAGER"
-        },
-        {
-            "name": "Gareth Lewis",
-            "link": "https://www.linkedin.com/in/garethrobertlewis",
-            "headline": "Leading Innovator in Bespoke Laser Systems | Helping SMEs &amp; Large Enterprises with Customised Laser Solutions | Over 20+ Years of Expertise in Engineering &amp; Manufacturing",
-            "location": "Greater Cardiff Area",
-            "current_position": "Employee"
-        }
-    ]
-}
-{
-    "Commpany_info": {
-        "company_ID": "2755137",
-        "company Name": "Tri-Tech 3D",
-        "description": "Tri-Tech 3D is the UK and Ireland Partner for Stratasys, XJet and One Click Metal 3D printer systems and materials. We offer a complete package of services from initial specification and supply of 3D printing hardware and software, to on-site 3D printer installation, staff training and full product support.nnTri-Tech 3D have a wealth of industry knowledge and technical expertise covering all the major rapid prototyping and rapid manufacturing technologies. Our roots as a true engineering company with bias on technical ability and support has helped us to become the most reliable and well-respected business partner for Stratasys throughout the UK and Ireland.nnYou will find our staff friendly, knowledgeable, and conversant with all the latest developments relating to the handling of 3D content.",
-        "website": "http://www.tritech3d.co.uk/",
-        "number": "01782 814551",
-        "Location": "Stoke-on-Trent Staffordshire",
-        "Specialties": "RP system support and maintenance\",\"Applications knowledge and advice\",\"Repairs and upgrades\",\"Objet 3D Printer and materials sales",
-        "foundedOn": "2007",
-        "Industry": "Printing Services",
-        "followers": "2790",
-        "employeeCountRange": "",
-        "Company url": "https://www.linkedin.com/company/2755137"
-    },
-    "employee_info": [
-        {
-            "name": "Christopher Keeling",
-            "link": "https://www.linkedin.com/in/christopher-keeling-8a1a83196",
-            "headline": "Tri-Tech3D / Cadspec Ltd - Design, Manufacturing Cloud &amp; Additive Expert",
-            "location": "Blackpool Area",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Skye Taylor",
-            "link": "https://www.linkedin.com/in/skye-taylor-79aa47159",
-            "headline": "Biomedical Science Graduate - Currently working in 3D printing",
-            "location": "Stoke-On-Trent, England, United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Paul Webber",
-            "link": "https://www.linkedin.com/in/paul-webber-5a553960",
-            "headline": "Engineering Director at Tri-Tech 3D",
-            "location": "Greater Stoke-on-Trent Area",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Geoff Hunt",
-            "link": "https://www.linkedin.com/in/geoff-hunt-798aaab2",
-            "headline": "Support Engineer at Stanford Marsh Group",
-            "location": "Royal Leamington Spa, England, United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Adrian Painter",
-            "link": "https://www.linkedin.com/in/adrianpainter",
-            "headline": "Stratasys Additive Manufacturing Solutions and Autodesk CAD/CAM Software. Training, Consultancy, Hardware, Materials &amp; Services. Board member of GTMA (Manufacturing Resource Centre).",
-            "location": "Stoke-On-Trent, England, United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Roger Eastaff",
-            "link": "https://www.linkedin.com/in/roger-eastaff-44291b65",
-            "headline": "3D Printing Engineer at Tri-Tech Engineering Ltd / Owner at Layerfab",
-            "location": "Greater Coventry Area",
-            "current_position": "Employee"
-        }
-    ]
-}
-{
-    "Commpany_info": {
-        "company_ID": "1145775",
-        "company Name": "Abbey - The Destination Experts",
-        "description": "Abbey are an internationally recognised, award-winning DMC specialising in leisure group and individual travel in Ireland and the UK. Our core focus is to deliver exceptional travel experiences to our clients and ensure their stay in our destinations is memorable. The company has been in business for over 45 years\u00e2\u0080\u0099, with offices in Dublin, Edinburgh and London. nnOur multi-lingual leisure groups and individual travel department provides an exciting range of tailored programs and experiences for clients traveling independently or as part of a group. Our Online Reservations service is available exclusively to the travel trade. n",
-        "website": "http://www.abbey.ie",
-        "number": "+353 1 648 6100",
-        "Location": "Dublin County Dublin",
-        "Specialties": "Leisure Tourism\",\"FIT & Online\",\"Group Travel\",\"Individual Travel\",\"Ireland Destination Experts\",\"UK Destination Experts",
-        "foundedOn": "1978",
-        "Industry": "Travel Arrangements",
-        "followers": "8530",
-        "employeeCountRange": [
-            "2",
-            "10"
-        ],
-        "Company url": "https://www.linkedin.com/company/abbey-ireland"
-    },
-    "employee_info": [
-        {
-            "name": "Valentina Salaris",
-            "link": "https://www.linkedin.com/in/valentinasalaris/",
-            "headline": "Digital Marketing Specialist Consultant",
-            "location": "Como, Lombardy, Italy",
-            "current_position": "Office Administrator UK Abbey Ireland &amp; UK - ...the Office Manager and UK MD in ensuring the"
-        }
-    ]
-}
-{
-    "Commpany_info": {
-        "company_ID": "1801496",
-        "company Name": "printingprogress",
-        "description": "At Printing Progress \u00e2\u0080\u0093 your printers and graphic design agency \u00e2\u0080\u0093 we can offer you innovative graphic design, illustration, print , embroidery and web design. If you can think it, then it\u00e2\u0080\u0099s quite likely that we can design it and print it.nnYou don't get to make a first impression twice. Not without hypnotism anyway. Printing Progress had its umbilical cord snipped in 2008, and when added together our creative team have over fifty years\u00e2\u0080\u0099 worth of cutting-edge experience.nnWhen we come up with your branding, don't think it'll take months before you see it on your products, packaging, apparel and gift items. We work fast and we print even faster \u00e2\u0080\u0093 don't think months, think minutes! We love strict deadlines and we love challenges, almost as much as we love super delicious coffee.nnHey \u00e2\u0080\u0093 we've even invested in the latest technologies but what more could you possibly want? Cost effective pricing? Well, yes, we offer that too.nnBusiness cards, stationery, packaging, branding clothing, USB sticks, gazebos \u00e2\u0080\u0093 we have over 10,000 different products available for you to choose from. We can even help you with your online presence too, with conversion-optimised web design.nnGo, on \u00e2\u0080\u0093 you know you want to! For top-notch graphic design and printing in the UK, pick up that phone or pin your mobile against your ear and dial 020 8290 1010. If you're slightly scared to talk to us then you can always drop us an email at info@printingprogress.co.uk instead.",
-        "website": "http://www.printingprogress.co.uk",
-        "number": "02082901010",
-        "Location": "Hove, Durham  London",
-        "Specialties": "Graphic Design\",\"Logo Design\",\"bespoke\",\"low prices",
-        "foundedOn": "2008",
-        "Industry": "IT Services and IT Consulting",
-        "followers": "58",
-        "employeeCountRange": "",
-        "Company url": "https://www.linkedin.com/company/printingprogress-ltd"
-    },
-    "employee_info": [
-        {
-            "name": "Aidan Taylor",
-            "link": "https://www.linkedin.com/in/iaidan",
-            "headline": "Director at LogicServers",
-            "location": "London, England, United Kingdom",
-            "current_position": "Employee"
-        },
-        {
-            "name": "Louise McIntosh",
-            "link": "https://www.linkedin.com/in/louise-mcintosh-712ab920",
-            "headline": "Award winning Graphic Design, Illustration, Digital, Lithographic and Large Format Print",
-            "location": "Hove, England, United Kingdom",
-            "current_position": "Employee"
-        }
-    ]
-}
-{
-    "Commpany_info": {
-        "company_ID": "35523279",
-        "company Name": "Parker-Noble Print",
-        "description": "We are a passionate and creative design and print team\u00c2\u00a0 working to deliver the highest quality and honestly priced design and print solutions for businesses. Our client base is diverse ranging from small start ups to large companies.\u00c2\u00a0 We are based in Cambridgeshire and are able to offer design and print services across the UK. Under the guidance of our owner Keith Parker, we are able to enjoy being creative and surpassing client expectations equally and empathise to be budget conscious whenever we quote for potential clients. If you are starting out in business or are exhibiting for the first time, please feel free to get in touch and we would do our best to help.",
-        "website": "https://www.parker-nobleprint.co.uk",
-        "number": "01223 874420",
-        "Location": "Newton Cambridge",
-        "Specialties": "Exhibition Graphics\",\"Roller Banners\",\"Pop-up Displays\",\"Posters\",\"Wide format",
-        "foundedOn": "1990",
-        "Industry": "IT Services and IT Consulting",
-        "followers": "18",
-        "employeeCountRange": "",
-        "Company url": "https://www.linkedin.com/company/falconimaging"
-    },
-    "employee_info": [
-        {
-            "name": "Keith Parker",
-            "link": "https://www.linkedin.com/in/keith-parker-569a7a18",
-            "headline": "Professional Printer | UK Wide | Outdoor Signs | Social Distancing Signs | Roller Banners | Posters | Exhibition Stands",
-            "location": "Cambridge, England, United Kingdom",
-            "current_position": "Employee"
-        }
-    ]
-}
+  }
+]
